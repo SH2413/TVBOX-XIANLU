@@ -70,16 +70,6 @@
     "stability": 100
   },
   {
-    "name": "讴歌",
-    "url": "http://tv.nxog.top/",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 40,
-    "grade": "C",
-    "stability": 100
-  },
-  {
     "name": "俊佬线路",
     "url": "http://home.jundie.top:81/top98.json",
     "enable": true,
@@ -630,26 +620,6 @@
     "stability": 100
   },
   {
-    "name": "南风线路",
-    "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Xc.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 40,
-    "grade": "C",
-    "stability": 66
-  },
-  {
-    "name": "高天流云",
-    "url": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 66
-  },
-  {
     "name": "影视仓单线",
     "url": "http://影视仓.com/",
     "enable": true,
@@ -657,7 +627,17 @@
     "status": "unknown",
     "score": 60,
     "grade": "B",
-    "stability": 50
+    "stability": 66
+  },
+  {
+    "name": "D佬线路",
+    "url": "http://rihou.cc:555/nzk/nzk0722.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 50,
+    "grade": "C",
+    "stability": 66
   },
   {
     "name": "影视仓",
@@ -667,7 +647,7 @@
     "status": "unknown",
     "score": 60,
     "grade": "B",
-    "stability": 50
+    "stability": 66
   },
   {
     "name": "uuccc",
@@ -677,7 +657,37 @@
     "status": "unknown",
     "score": 60,
     "grade": "B",
-    "stability": 50
+    "stability": 66
+  },
+  {
+    "name": "南风线路",
+    "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Xc.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 40,
+    "grade": "C",
+    "stability": 60
+  },
+  {
+    "name": "高天流云",
+    "url": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 60,
+    "grade": "B",
+    "stability": 60
+  },
+  {
+    "name": "欧歌免费",
+    "url": "https://tv.nxog.top/m",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 40,
+    "grade": "C",
+    "stability": 40
   },
   {
     "name": "饭太硬线路",
