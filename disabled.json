@@ -6,7 +6,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 30,
-    "grade": "FAIL"
+    "grade": "FAIL",
+    "stability": 0
   },
   {
     "name": "云星日记",
@@ -15,7 +16,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+    "grade": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
+    "stability": 0
   },
   {
     "name": "吾爱多仓",
@@ -24,7 +26,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPConnectionPool(host='52bsj.vip', port=98): Max retries exceeded with url: /wuaihouse (Caused by ConnectTimeoutError(<HTTPConnection(host='52bsj.vip', port=98) at 0x7f77adb5bf10>, 'Connection to 52bsj.vip timed out. (connect timeout=8)'))"
+    "grade": "HTTPConnectionPool(host='52bsj.vip', port=98): Max retries exceeded with url: /wuaihouse (Caused by ConnectTimeoutError(<HTTPConnection(host='52bsj.vip', port=98) at 0x7f18559846d0>, 'Connection to 52bsj.vip timed out. (connect timeout=8)'))",
+    "stability": 0
   },
   {
     "name": "运输车多仓",
@@ -33,7 +36,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 30,
-    "grade": "FAIL"
+    "grade": "FAIL",
+    "stability": 0
   },
   {
     "name": "运输车多仓备用",
@@ -42,7 +46,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 30,
-    "grade": "FAIL"
+    "grade": "FAIL",
+    "stability": 0
   },
   {
     "name": "拾光多仓",
@@ -51,7 +56,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 30,
-    "grade": "FAIL"
+    "grade": "FAIL",
+    "stability": 0
   },
   {
     "name": "摸鱼",
@@ -60,7 +66,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 30,
-    "grade": "FAIL"
+    "grade": "FAIL",
+    "stability": 0
   },
   {
     "name": "V哥",
@@ -69,7 +76,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+    "grade": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
+    "stability": 0
   },
   {
     "name": "Fongmi",
@@ -78,7 +86,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPConnectionPool(host='fongmi.top', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='fongmi.top', port=80): Failed to resolve 'fongmi.top' ([Errno -2] Name or service not known)\"))"
+    "grade": "HTTPConnectionPool(host='fongmi.top', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='fongmi.top', port=80): Failed to resolve 'fongmi.top' ([Errno -2] Name or service not known)\"))",
+    "stability": 0
   },
   {
     "name": "毒盒",
@@ -87,7 +96,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPSConnectionPool(host='tv.youdu.fan', port=666): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='tv.youdu.fan', port=666) at 0x7f77adb82850>, 'Connection to tv.youdu.fan timed out. (connect timeout=8)'))"
+    "grade": "HTTPSConnectionPool(host='tv.youdu.fan', port=666): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='tv.youdu.fan', port=666) at 0x7f1855997390>, 'Connection to tv.youdu.fan timed out. (connect timeout=8)'))",
+    "stability": 0
   },
   {
     "name": "应用多多家庭版",
@@ -96,7 +106,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 10,
-    "grade": "FAIL"
+    "grade": "FAIL",
+    "stability": 0
   },
   {
     "name": "唐三线路",
@@ -105,7 +116,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPSConnectionPool(host='gh.t4tv.hz.cz', port=443): Max retries exceeded with url: /newtang.bmp (Caused by NameResolutionError(\"HTTPSConnection(host='gh.t4tv.hz.cz', port=443): Failed to resolve 'gh.t4tv.hz.cz' ([Errno -2] Name or service not known)\"))"
+    "grade": "HTTPSConnectionPool(host='gh.t4tv.hz.cz', port=443): Max retries exceeded with url: /newtang.bmp (Caused by NameResolutionError(\"HTTPSConnection(host='gh.t4tv.hz.cz', port=443): Failed to resolve 'gh.t4tv.hz.cz' ([Errno -2] Name or service not known)\"))",
+    "stability": 0
   },
   {
     "name": "应用多多备用",
@@ -114,7 +126,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPConnectionPool(host='cdn.yydsys.top', port=80): Max retries exceeded with url: /duo (Caused by NameResolutionError(\"HTTPConnection(host='cdn.yydsys.top', port=80): Failed to resolve 'cdn.yydsys.top' ([Errno -2] Name or service not known)\"))"
+    "grade": "HTTPConnectionPool(host='cdn.yydsys.top', port=80): Max retries exceeded with url: /duo (Caused by NameResolutionError(\"HTTPConnection(host='cdn.yydsys.top', port=80): Failed to resolve 'cdn.yydsys.top' ([Errno -2] Name or service not known)\"))",
+    "stability": 0
   },
   {
     "name": "阿里精品专线",
@@ -123,7 +136,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 10,
-    "grade": "FAIL"
+    "grade": "FAIL",
+    "stability": 0
   },
   {
     "name": "道长线路",
@@ -132,7 +146,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "FAIL"
+    "grade": "FAIL",
+    "stability": 0
   },
   {
     "name": "dxawio线路",
@@ -141,7 +156,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 20,
-    "grade": "FAIL"
+    "grade": "FAIL",
+    "stability": 0
   },
   {
     "name": "饭太硬线路",
@@ -150,7 +166,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPConnectionPool(host='xn--sss604efuw.ml', port=80): Max retries exceeded with url: /tv (Caused by NameResolutionError(\"HTTPConnection(host='xn--sss604efuw.ml', port=80): Failed to resolve 'xn--sss604efuw.ml' ([Errno -2] Name or service not known)\"))"
+    "grade": "HTTPConnectionPool(host='xn--sss604efuw.ml', port=80): Max retries exceeded with url: /tv (Caused by NameResolutionError(\"HTTPConnection(host='xn--sss604efuw.ml', port=80): Failed to resolve 'xn--sss604efuw.ml' ([Errno -2] Name or service not known)\"))",
+    "stability": 0
   },
   {
     "name": "饭太硬线路",
@@ -159,7 +176,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 30,
-    "grade": "FAIL"
+    "grade": "FAIL",
+    "stability": 0
   },
   {
     "name": "饭太硬线路",
@@ -168,16 +186,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 30,
-    "grade": "FAIL"
-  },
-  {
-    "name": "饭太硬线路",
-    "url": "http://www.饭太硬.art/tv",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 0,
-    "grade": "FAIL"
+    "grade": "FAIL",
+    "stability": 0
   },
   {
     "name": "饭太硬线路",
@@ -186,7 +196,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 30,
-    "grade": "FAIL"
+    "grade": "FAIL",
+    "stability": 33
   },
   {
     "name": "饭太硬线路",
@@ -195,16 +206,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 30,
-    "grade": "FAIL"
-  },
-  {
-    "name": "4K",
-    "url": "https://16409.kstore.vip/tv/ngzmods.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 0,
-    "grade": "HTTPSConnectionPool(host='16409.kstore.vip', port=443): Read timed out. (read timeout=8)"
+    "grade": "FAIL",
+    "stability": 28
   },
   {
     "name": "菜妮丝线路",
@@ -213,7 +216,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPSConnectionPool(host='tvbox.cainisi.cf', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='tvbox.cainisi.cf', port=443): Failed to resolve 'tvbox.cainisi.cf' ([Errno -2] Name or service not known)\"))"
+    "grade": "HTTPSConnectionPool(host='tvbox.cainisi.cf', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='tvbox.cainisi.cf', port=443): Failed to resolve 'tvbox.cainisi.cf' ([Errno -2] Name or service not known)\"))",
+    "stability": 0
   },
   {
     "name": "肥猫线路",
@@ -222,7 +226,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPConnectionPool(host='xn--ihqu10cn4c.xn--z7x900a.love', port=63): Max retries exceeded with url: /%E6%8E%A5%E5%8F%A3%E7%A6%81%E6%AD%A2%E8%B4%A9%E5%8D%96 (Caused by NameResolutionError(\"HTTPConnection(host='xn--ihqu10cn4c.xn--z7x900a.love', port=63): Failed to resolve 'xn--ihqu10cn4c.xn--z7x900a.love' ([Errno -2] Name or service not known)\"))"
+    "grade": "HTTPConnectionPool(host='xn--ihqu10cn4c.xn--z7x900a.love', port=63): Max retries exceeded with url: /%E6%8E%A5%E5%8F%A3%E7%A6%81%E6%AD%A2%E8%B4%A9%E5%8D%96 (Caused by NameResolutionError(\"HTTPConnection(host='xn--ihqu10cn4c.xn--z7x900a.love', port=63): Failed to resolve 'xn--ihqu10cn4c.xn--z7x900a.love' ([Errno -2] Name or service not known)\"))",
+    "stability": 0
   },
   {
     "name": "小米线路",
@@ -231,7 +236,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPConnectionPool(host='xhww.fun', port=63): Max retries exceeded with url: /%E5%B0%8F%E7%B1%B3/DEMO.json (Caused by ConnectTimeoutError(<HTTPConnection(host='xhww.fun', port=63) at 0x7f77adbc1210>, 'Connection to xhww.fun timed out. (connect timeout=8)'))"
+    "grade": "HTTPConnectionPool(host='xhww.fun', port=63): Max retries exceeded with url: /%E5%B0%8F%E7%B1%B3/DEMO.json (Caused by ConnectTimeoutError(<HTTPConnection(host='xhww.fun', port=63) at 0x7f18559cc350>, 'Connection to xhww.fun timed out. (connect timeout=8)'))",
+    "stability": 0
   },
   {
     "name": "老刘备线路",
@@ -240,7 +246,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 30,
-    "grade": "FAIL"
+    "grade": "FAIL",
+    "stability": 0
   },
   {
     "name": "运输车(有跑马灯)",
@@ -249,7 +256,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 30,
-    "grade": "FAIL"
+    "grade": "FAIL",
+    "stability": 0
   },
   {
     "name": "欧歌线路",
@@ -258,7 +266,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 30,
-    "grade": "FAIL"
+    "grade": "FAIL",
+    "stability": 0
   },
   {
     "name": "x星辰线路",
@@ -267,7 +276,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPConnectionPool(host='8.210.232.168', port=80): Max retries exceeded with url: /xc.json (Caused by NewConnectionError(\"HTTPConnection(host='8.210.232.168', port=80): Failed to establish a new connection: [Errno 111] Connection refused\"))"
+    "grade": "HTTPConnectionPool(host='8.210.232.168', port=80): Max retries exceeded with url: /xc.json (Caused by NewConnectionError(\"HTTPConnection(host='8.210.232.168', port=80): Failed to establish a new connection: [Errno 111] Connection refused\"))",
+    "stability": 0
   },
   {
     "name": "潇洒线路",
@@ -276,7 +286,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 10,
-    "grade": "FAIL"
+    "grade": "FAIL",
+    "stability": 0
   },
   {
     "name": "x吾爱线路",
@@ -285,7 +296,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPConnectionPool(host='52bsj.vip', port=98): Max retries exceeded with url: /wuai (Caused by ConnectTimeoutError(<HTTPConnection(host='52bsj.vip', port=98) at 0x7f77adbb7450>, 'Connection to 52bsj.vip timed out. (connect timeout=8)'))"
+    "grade": "HTTPConnectionPool(host='52bsj.vip', port=98): Max retries exceeded with url: /wuai (Caused by ConnectTimeoutError(<HTTPConnection(host='52bsj.vip', port=98) at 0x7f185598e990>, 'Connection to 52bsj.vip timed out. (connect timeout=8)'))",
+    "stability": 0
   },
   {
     "name": "城云星日记",
@@ -294,7 +306,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 20,
-    "grade": "FAIL"
+    "grade": "FAIL",
+    "stability": 0
   },
   {
     "name": "冰河线路",
@@ -303,7 +316,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPSConnectionPool(host='ju.binghe.ga', port=443): Max retries exceeded with url: /4.txt (Caused by NameResolutionError(\"HTTPSConnection(host='ju.binghe.ga', port=443): Failed to resolve 'ju.binghe.ga' ([Errno -2] Name or service not known)\"))"
+    "grade": "HTTPSConnectionPool(host='ju.binghe.ga', port=443): Max retries exceeded with url: /4.txt (Caused by NameResolutionError(\"HTTPSConnection(host='ju.binghe.ga', port=443): Failed to resolve 'ju.binghe.ga' ([Errno -2] Name or service not known)\"))",
+    "stability": 0
   },
   {
     "name": "蚂蚁论坛线路",
@@ -312,7 +326,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 10,
-    "grade": "FAIL"
+    "grade": "FAIL",
+    "stability": 0
   },
   {
     "name": "喵影视线路",
@@ -321,7 +336,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPConnectionPool(host='miaotvs.cn', port=80): Max retries exceeded with url: /meow (Caused by NameResolutionError(\"HTTPConnection(host='miaotvs.cn', port=80): Failed to resolve 'miaotvs.cn' ([Errno -2] Name or service not known)\"))"
+    "grade": "HTTPConnectionPool(host='miaotvs.cn', port=80): Max retries exceeded with url: /meow (Caused by NameResolutionError(\"HTTPConnection(host='miaotvs.cn', port=80): Failed to resolve 'miaotvs.cn' ([Errno -2] Name or service not known)\"))",
+    "stability": 0
   },
   {
     "name": "不良帅线路",
@@ -330,7 +346,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 10,
-    "grade": "FAIL"
+    "grade": "FAIL",
+    "stability": 0
   },
   {
     "name": "源享家线路",
@@ -339,7 +356,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPSConnectionPool(host='xn--0lqv13avvo.ml', port=443): Max retries exceeded with url: /23424 (Caused by NameResolutionError(\"HTTPSConnection(host='xn--0lqv13avvo.ml', port=443): Failed to resolve 'xn--0lqv13avvo.ml' ([Errno -2] Name or service not known)\"))"
+    "grade": "HTTPSConnectionPool(host='xn--0lqv13avvo.ml', port=443): Max retries exceeded with url: /23424 (Caused by NameResolutionError(\"HTTPSConnection(host='xn--0lqv13avvo.ml', port=443): Failed to resolve 'xn--0lqv13avvo.ml' ([Errno -2] Name or service not known)\"))",
+    "stability": 0
   },
   {
     "name": "乱世线路",
@@ -348,7 +366,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPConnectionPool(host='www.dmtv.ml', port=80): Max retries exceeded with url: /mao/single.json (Caused by NameResolutionError(\"HTTPConnection(host='www.dmtv.ml', port=80): Failed to resolve 'www.dmtv.ml' ([Errno -2] Name or service not known)\"))"
+    "grade": "HTTPConnectionPool(host='www.dmtv.ml', port=80): Max retries exceeded with url: /mao/single.json (Caused by NameResolutionError(\"HTTPConnection(host='www.dmtv.ml', port=80): Failed to resolve 'www.dmtv.ml' ([Errno -2] Name or service not known)\"))",
+    "stability": 0
   },
   {
     "name": "元兴线路",
@@ -357,7 +376,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPSConnectionPool(host='freed.yuanhsing.cf', port=443): Max retries exceeded with url: /TVBox/meowcf.json (Caused by NameResolutionError(\"HTTPSConnection(host='freed.yuanhsing.cf', port=443): Failed to resolve 'freed.yuanhsing.cf' ([Errno -2] Name or service not known)\"))"
+    "grade": "HTTPSConnectionPool(host='freed.yuanhsing.cf', port=443): Max retries exceeded with url: /TVBox/meowcf.json (Caused by NameResolutionError(\"HTTPSConnection(host='freed.yuanhsing.cf', port=443): Failed to resolve 'freed.yuanhsing.cf' ([Errno -2] Name or service not known)\"))",
+    "stability": 0
   },
   {
     "name": "夜猫子(有跑马灯)",
@@ -366,7 +386,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 10,
-    "grade": "FAIL"
+    "grade": "FAIL",
+    "stability": 0
   },
   {
     "name": "小胡线路",
@@ -375,7 +396,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPConnectionPool(host='xzam.cn', port=80): Max retries exceeded with url: /tv (Caused by ConnectTimeoutError(<HTTPConnection(host='xzam.cn', port=80) at 0x7f77adbc1b90>, 'Connection to xzam.cn timed out. (connect timeout=8)'))"
+    "grade": "HTTPConnectionPool(host='xzam.cn', port=80): Max retries exceeded with url: /tv (Caused by ConnectTimeoutError(<HTTPConnection(host='xzam.cn', port=80) at 0x7f18559cc690>, 'Connection to xzam.cn timed out. (connect timeout=8)'))",
+    "stability": 0
   },
   {
     "name": "心魔在线",
@@ -384,7 +406,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 30,
-    "grade": "FAIL"
+    "grade": "FAIL",
+    "stability": 0
   },
   {
     "name": "多多在线",
@@ -393,7 +416,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "FAIL"
+    "grade": "FAIL",
+    "stability": 0
   },
   {
     "name": "分享在线",
@@ -402,7 +426,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 30,
-    "grade": "FAIL"
+    "grade": "FAIL",
+    "stability": 0
   },
   {
     "name": "多多影音",
@@ -411,7 +436,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 30,
-    "grade": "FAIL"
+    "grade": "FAIL",
+    "stability": 0
   },
   {
     "name": "真心在线",
@@ -420,7 +446,18 @@
     "last_check": "",
     "status": "unknown",
     "score": 30,
-    "grade": "FAIL"
+    "grade": "FAIL",
+    "stability": 0
+  },
+  {
+    "name": "影视仓单线",
+    "url": "http://影视仓.com/",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 0,
+    "grade": "FAIL",
+    "stability": 0
   },
   {
     "name": "装歌线路",
@@ -429,7 +466,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    "grade": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+    "stability": 0
   },
   {
     "name": "高天流云",
@@ -438,7 +476,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 30,
-    "grade": "FAIL"
+    "grade": "FAIL",
+    "stability": 50
   },
   {
     "name": "传说线路",
@@ -447,7 +486,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "FAIL"
+    "grade": "FAIL",
+    "stability": 0
   },
   {
     "name": "环宇轩线",
@@ -456,7 +496,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 20,
-    "grade": "FAIL"
+    "grade": "FAIL",
+    "stability": 0
   },
   {
     "name": "南风线路",
@@ -465,7 +506,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 30,
-    "grade": "FAIL"
+    "grade": "FAIL",
+    "stability": 50
   },
   {
     "name": "无意云",
@@ -474,7 +516,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 10,
-    "grade": "FAIL"
+    "grade": "FAIL",
+    "stability": 0
   },
   {
     "name": "宝盒线路2026",
@@ -483,7 +526,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 30,
-    "grade": "FAIL"
+    "grade": "FAIL",
+    "stability": 0
   },
   {
     "name": "月光宝盒源",
@@ -492,16 +536,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 30,
-    "grade": "FAIL"
-  },
-  {
-    "name": "少儿频道",
-    "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 10,
-    "grade": "FAIL"
+    "grade": "FAIL",
+    "stability": 0
   },
   {
     "name": "短剧频道",
@@ -510,7 +546,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPConnectionPool(host='box.ufuzi.com', port=80): Max retries exceeded with url: /tv/qq/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api.json (Caused by ConnectTimeoutError(<HTTPConnection(host='box.ufuzi.com', port=80) at 0x7f77adbf2910>, 'Connection to box.ufuzi.com timed out. (connect timeout=8)'))"
+    "grade": "HTTPConnectionPool(host='box.ufuzi.com', port=80): Max retries exceeded with url: /tv/qq/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api.json (Caused by ConnectTimeoutError(<HTTPConnection(host='box.ufuzi.com', port=80) at 0x7f18559a3b90>, 'Connection to box.ufuzi.com timed out. (connect timeout=8)'))",
+    "stability": 0
   },
   {
     "name": "巧记Box",
@@ -519,7 +556,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPConnectionPool(host='cdn.qiaoji8.com', port=80): Max retries exceeded with url: /tvbox.json (Caused by NewConnectionError(\"HTTPConnection(host='cdn.qiaoji8.com', port=80): Failed to establish a new connection: [Errno 111] Connection refused\"))"
+    "grade": "HTTPConnectionPool(host='cdn.qiaoji8.com', port=80): Max retries exceeded with url: /tvbox.json (Caused by NewConnectionError(\"HTTPConnection(host='cdn.qiaoji8.com', port=80): Failed to establish a new connection: [Errno 111] Connection refused\"))",
+    "stability": 0
   },
   {
     "name": "欧歌免费",
@@ -527,8 +565,19 @@
     "enable": true,
     "last_check": "",
     "status": "unknown",
+    "score": 30,
+    "grade": "FAIL",
+    "stability": 0
+  },
+  {
+    "name": "影视仓",
+    "url": "http://影视仓.com/",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
     "score": 0,
-    "grade": "HTTPSConnectionPool(host='tv.nxog.top', port=443): Max retries exceeded with url: /m (Caused by NewConnectionError(\"HTTPSConnection(host='tv.nxog.top', port=443): Failed to establish a new connection: [Errno 111] Connection refused\"))"
+    "grade": "FAIL",
+    "stability": 0
   },
   {
     "name": "欧歌接口",
@@ -537,7 +586,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    "grade": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+    "stability": 0
   },
   {
     "name": "二月红接口",
@@ -546,7 +596,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 30,
-    "grade": "FAIL"
+    "grade": "FAIL",
+    "stability": 0
   },
   {
     "name": "肥猫线路.com",
@@ -555,7 +606,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 30,
-    "grade": "FAIL"
+    "grade": "FAIL",
+    "stability": 0
   },
   {
     "name": "欧歌免费",
@@ -563,8 +615,9 @@
     "enable": true,
     "last_check": "",
     "status": "unknown",
-    "score": 0,
-    "grade": "HTTPSConnectionPool(host='tv.nxog.top', port=443): Max retries exceeded with url: /m/111.php?ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp&mz=index&jar=index&123&b=tv (Caused by NewConnectionError(\"HTTPSConnection(host='tv.nxog.top', port=443): Failed to establish a new connection: [Errno 111] Connection refused\"))"
+    "score": 30,
+    "grade": "FAIL",
+    "stability": 0
   },
   {
     "name": "宝盒接口",
@@ -573,7 +626,18 @@
     "last_check": "",
     "status": "unknown",
     "score": 30,
-    "grade": "FAIL"
+    "grade": "FAIL",
+    "stability": 0
+  },
+  {
+    "name": "uuccc",
+    "url": "http://xn--5mqx81b535a.com/",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 0,
+    "grade": "FAIL",
+    "stability": 0
   },
   {
     "name": "麒麟影仓",
@@ -582,7 +646,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "FAIL"
+    "grade": "FAIL",
+    "stability": 0
   },
   {
     "name": "ok",
@@ -591,7 +656,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 30,
-    "grade": "FAIL"
+    "grade": "FAIL",
+    "stability": 0
   },
   {
     "name": "青苹果影视",
@@ -600,7 +666,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    "grade": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+    "stability": 0
   },
   {
     "name": "我",
@@ -609,7 +676,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 30,
-    "grade": "FAIL"
+    "grade": "FAIL",
+    "stability": 0
   },
   {
     "name": "1",
@@ -618,7 +686,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 30,
-    "grade": "FAIL"
+    "grade": "FAIL",
+    "stability": 0
   },
   {
     "name": "cs",
@@ -627,7 +696,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 30,
-    "grade": "FAIL"
+    "grade": "FAIL",
+    "stability": 0
   },
   {
     "name": "我的借口",
@@ -636,7 +706,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 10,
-    "grade": "FAIL"
+    "grade": "FAIL",
+    "stability": 0
   },
   {
     "name": "南风接口",
@@ -645,7 +716,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 30,
-    "grade": "FAIL"
+    "grade": "FAIL",
+    "stability": 0
   },
   {
     "name": "双龙",
@@ -654,6 +726,7 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    "grade": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+    "stability": 0
   }
 ]
