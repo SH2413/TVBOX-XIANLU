@@ -1,688 +1,466 @@
 [
   {
-    "name": "应用多多",
-    "url": "https://jihulab.com/duomv/apps/-/raw/main/fast.json",
-    "enable": true,
-    "last_check": "2026-06-11 12:52:53",
-    "status": "alive"
-  },
-  {
-    "name": "欧歌",
-    "url": "http://tv.nxog.top/api.php?mz=xb&id=1&b=欧歌",
-    "enable": true,
-    "last_check": "2026-06-11 12:52:55",
-    "status": "alive"
-  },
-  {
     "name": "多仓",
     "url": "https://cyuan.netlify.app/tvbox/duo.json",
     "enable": true,
-    "last_check": "2026-06-11 12:53:05",
-    "status": "alive"
-  },
-  {
-    "name": "挺好分享多仓",
-    "url": "http://ztha.top/TVBox/GYCK.json",
-    "enable": true,
-    "last_check": "2026-06-11 12:53:07",
-    "status": "alive"
-  },
-  {
-    "name": "拾光多仓",
-    "url": "http://xmbjm.fh4u.org/dc.txt",
-    "enable": true,
-    "last_check": "2026-06-11 12:53:08",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "小盒子多仓（备）",
     "url": "http://xhztv.top/DC.txt",
     "enable": true,
-    "last_check": "2026-06-11 12:53:08",
-    "status": "alive"
-  },
-  {
-    "name": "小盒子多仓",
-    "url": "http://xhztv.top/dc",
-    "enable": true,
-    "last_check": "2026-06-11 12:53:08",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "游魂多仓",
     "url": "https://www.iyouhun.com/tv/dc",
     "enable": true,
-    "last_check": "2026-06-11 12:53:10",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "游魂多仓（备）",
     "url": "https://www.iyouhun.com/tv/yh",
     "enable": true,
-    "last_check": "2026-06-11 12:53:12",
-    "status": "alive"
-  },
-  {
-    "name": "摸鱼",
-    "url": "http://我不是.摸鱼儿.top",
-    "enable": true,
-    "last_check": "2026-06-11 12:53:13",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "讴歌",
     "url": "http://tv.nxog.top/",
     "enable": true,
-    "last_check": "2026-06-11 12:53:14",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "俊佬线路",
     "url": "http://home.jundie.top:81/top98.json",
     "enable": true,
-    "last_check": "2026-06-11 12:53:30",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "蜂蜜线路",
     "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
     "enable": true,
-    "last_check": "2026-06-11 12:53:30",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "霜辉月明",
     "url": "https://ghproxy.com/https://raw.githubuserntent.com/lm317379829/PyramidStore/main/py.json",
     "enable": true,
-    "last_check": "2026-06-11 12:53:30",
-    "status": "alive"
-  },
-  {
-    "name": "饭太硬线路",
-    "url": "http://www.饭太硬.cc/tv",
-    "enable": true,
-    "last_check": "2026-06-11 12:53:32",
-    "status": "alive"
-  },
-  {
-    "name": "饭太硬线路",
-    "url": "http://www.饭太硬.net/tv",
-    "enable": true,
-    "last_check": "2026-06-11 12:53:33",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "饭太硬线路",
     "url": "http://fty.xxooo.cf/tv",
     "enable": true,
-    "last_check": "2026-06-11 12:53:34",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "饭太硬线路",
-    "url": "http://fty.888484.xyz/tv",
+    "url": "http://www.饭太硬.art/tv",
     "enable": true,
-    "last_check": "2026-06-11 12:53:46",
-    "status": "alive"
-  },
-  {
-    "name": "饭太硬线路",
-    "url": "http://fty.333232.xyz/tv",
-    "enable": true,
-    "last_check": "2026-06-11 12:53:46",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "饭太硬江苏和郑州个别地区",
     "url": "https://raw.atomgit.com/xxxooo/fan/blobs/cef5f441c422cffe4852e0fc8b102f9be6d2bb2b/in.bmp",
     "enable": true,
-    "last_check": "2026-06-11 12:53:48",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "4K",
     "url": "https://16409.kstore.vip/tv/ngzmods.json",
     "enable": true,
-    "last_check": "2026-06-11 12:53:49",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "小苹果线路",
     "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json",
     "enable": true,
-    "last_check": "2026-06-11 12:53:49",
-    "status": "alive"
-  },
-  {
-    "name": "老刘备线路",
-    "url": "https://raw.liucn.cc/box/m.json",
-    "enable": true,
-    "last_check": "2026-06-11 12:54:00",
-    "status": "alive"
-  },
-  {
-    "name": "欧歌线路",
-    "url": "http://tv.nxog.top/m/111.php?DU=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2",
-    "enable": true,
-    "last_check": "2026-06-11 12:54:01",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "x分享者线路",
     "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
     "enable": true,
-    "last_check": "2026-06-11 12:54:12",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "南风线路",
     "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Xc.json",
     "enable": true,
-    "last_check": "2026-06-11 12:54:12",
-    "status": "alive"
-  },
-  {
-    "name": "月光宝盒",
-    "url": "https://jihulab.com/ygbh1/box//raw/main/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92",
-    "enable": true,
-    "last_check": "2026-06-11 12:54:15",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "影视线路",
     "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-ine/main/tv/fj.json",
     "enable": true,
-    "last_check": "2026-06-11 12:54:15",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "agit/abc线路",
     "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
     "enable": true,
-    "last_check": "2026-06-11 12:54:16",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "高天流云",
     "url": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
     "enable": true,
-    "last_check": "2026-06-11 12:54:16",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "佰欣园线路",
     "url": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.t",
     "enable": true,
-    "last_check": "2026-06-11 12:54:16",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "zzz1线路",
     "url": "https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json",
     "enable": true,
-    "last_check": "2026-06-11 12:54:16",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "胖鸭线路",
     "url": "https://agit.ai/cyl518/ylraw/branch/master/ml.json",
     "enable": true,
-    "last_check": "2026-06-11 12:54:16",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "甜蜜线路",
     "url": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/%E7%94%9c%E8%9C%9C.ison",
     "enable": true,
-    "last_check": "2026-06-11 12:54:16",
-    "status": "alive"
-  },
-  {
-    "name": "小马线路",
-    "url": "https://szyyds.cn/tv/x.json",
-    "enable": true,
-    "last_check": "2026-06-11 12:54:17",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "木线路",
     "url": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOx-/main/TVBox/%E4%B8%80%E6%9C%A8%E8%87%AA%E7%94%A8.i500",
     "enable": true,
-    "last_check": "2026-06-11 12:54:18",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "kvymin线路",
     "url": "https://agit.ai/kvymin/TV/raw/branch/master/Box.json",
     "enable": true,
-    "last_check": "2026-06-11 12:54:29",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "荷城茶秀",
     "url": "https://ghproxy.com/https://raw.githubusercontent.com/XiaoYichaHang/tvbox/main/ysj.json",
     "enable": true,
-    "last_check": "2026-06-11 12:54:29",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "Clun在线",
     "url": "https://clun.top/box.json",
     "enable": true,
-    "last_check": "2026-06-11 12:54:29",
-    "status": "alive"
-  },
-  {
-    "name": "心魔在线",
-    "url": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json",
-    "enable": true,
-    "last_check": "2026-06-11 12:54:29",
-    "status": "alive"
-  },
-  {
-    "name": "分享在线",
-    "url": "http://hucongrong.web3v.work/%E9%A3%8E%E6%B0%B4/fxz/fxz.json",
-    "enable": true,
-    "last_check": "2026-06-11 12:54:32",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "黄金在线",
     "url": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjys.free.json",
     "enable": true,
-    "last_check": "2026-06-11 12:54:32",
-    "status": "alive"
-  },
-  {
-    "name": "多多影音",
-    "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
-    "enable": true,
-    "last_check": "2026-06-11 12:54:32",
-    "status": "alive"
-  },
-  {
-    "name": "真心在线",
-    "url": "https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json",
-    "enable": true,
-    "last_check": "2026-06-11 12:54:33",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "乐哥在线",
     "url": "https://乐哥.xyz/dj.json",
     "enable": true,
-    "last_check": "2026-06-11 12:54:34",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "CandyMu",
     "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
     "enable": true,
-    "last_check": "2026-06-11 12:54:34",
-    "status": "alive"
-  },
-  {
-    "name": "zhangqun1818",
-    "url": "http://zhangqun1818.serv00.net/zq/api.json",
-    "enable": true,
-    "last_check": "2026-06-11 12:54:35",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "影视仓单线",
     "url": "http://影视仓.com/",
     "enable": true,
-    "last_check": "2026-06-11 12:54:37",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "宝盒备用",
     "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json",
     "enable": true,
-    "last_check": "2026-06-11 12:54:37",
-    "status": "alive"
-  },
-  {
-    "name": "高天流云",
-    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-    "enable": true,
-    "last_check": "2026-06-11 12:54:39",
-    "status": "alive"
-  },
-  {
-    "name": "环宇轩线",
-    "url": "https://6492.kstore.space/xnf/xnf.json",
-    "enable": true,
-    "last_check": "2026-06-11 12:54:40",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "香雅晴线",
     "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
     "enable": true,
-    "last_check": "2026-06-11 12:54:40",
-    "status": "alive"
-  },
-  {
-    "name": "南风线路",
-    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json",
-    "enable": true,
-    "last_check": "2026-06-11 12:54:40",
-    "status": "alive"
-  },
-  {
-    "name": "D佬线路",
-    "url": "http://rihou.cc:555/nzk/nzk0722.json",
-    "enable": true,
-    "last_check": "2026-06-11 12:54:41",
-    "status": "alive"
-  },
-  {
-    "name": "七星影仓",
-    "url": "https://7337.kstore.space/qxys/%E7%A6%81%E6%AD%A2%E4%BC%A0%E6%92%AD.json",
-    "enable": true,
-    "last_check": "2026-06-11 12:54:41",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "菜妮丝",
     "url": "https://tv.菜妮丝.top",
     "enable": true,
-    "last_check": "2026-06-11 12:54:42",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "王二小（网盘4K）",
     "url": "http://tvbox.王二小放牛娃.top",
     "enable": true,
-    "last_check": "2026-06-11 12:54:45",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "盒子迷2026",
     "url": "https://盒子迷.top/禁止贩卖",
     "enable": true,
-    "last_check": "2026-06-11 12:54:45",
-    "status": "alive"
-  },
-  {
-    "name": "宝盒线路2026",
-    "url": "https://3043.kstore.space/bhvip/bh/bh2.json",
-    "enable": true,
-    "last_check": "2026-06-11 12:54:45",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "牛二线路",
     "url": "https://9280.kstore.space/wex.json",
     "enable": true,
-    "last_check": "2026-06-11 12:54:46",
-    "status": "alive"
-  },
-  {
-    "name": "月光宝盒源",
-    "url": "https://3043.kstore.space/bhvip/bh/box.json",
-    "enable": true,
-    "last_check": "2026-06-11 12:54:46",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "王二小备用",
     "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
     "enable": true,
-    "last_check": "2026-06-11 12:54:48",
-    "status": "alive"
-  },
-  {
-    "name": "少儿频道",
-    "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
-    "enable": true,
-    "last_check": "2026-06-11 12:54:48",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "欧歌免费",
     "url": "https://tv.nxog.top/m",
     "enable": true,
-    "last_check": "2026-06-11 12:55:00",
-    "status": "alive"
-  },
-  {
-    "name": "小盒子4K",
-    "url": "http://xhztv.top/4k.json",
-    "enable": true,
-    "last_check": "2026-06-11 12:55:00",
-    "status": "alive"
-  },
-  {
-    "name": "小盒子单仓",
-    "url": "http://xhztv.top/xhz",
-    "enable": true,
-    "last_check": "2026-06-11 12:55:03",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "影视仓",
     "url": "http://影视仓.com/",
     "enable": true,
-    "last_check": "2026-06-11 12:55:04",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "王二小",
     "url": "https://9280.kstore.vip/newwex.json",
     "enable": true,
-    "last_check": "2026-06-11 12:55:05",
-    "status": "alive"
-  },
-  {
-    "name": "少儿频道",
-    "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
-    "enable": true,
-    "last_check": "2026-06-11 12:55:05",
-    "status": "alive"
-  },
-  {
-    "name": "二月红接口",
-    "url": "https://700sjro44343.vicp.fun/eggp/0211/tv.json",
-    "enable": true,
-    "last_check": "2026-06-11 12:55:11",
-    "status": "alive"
-  },
-  {
-    "name": "肥猫线路.com",
-    "url": "http://肥猫.com/",
-    "enable": true,
-    "last_check": "2026-06-11 12:55:12",
-    "status": "alive"
-  },
-  {
-    "name": "欧歌免费",
-    "url": "https://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=tv",
-    "enable": true,
-    "last_check": "2026-06-11 12:55:12",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "王二小接口",
     "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
     "enable": true,
-    "last_check": "2026-06-11 12:55:14",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "王二小放牛娃",
     "url": "http://tv.999888987.xyz",
     "enable": true,
-    "last_check": "2026-06-11 12:55:15",
-    "status": "alive"
-  },
-  {
-    "name": "宝盒接口",
-    "url": "http://宝盒接口.top",
-    "enable": true,
-    "last_check": "2026-06-11 12:55:16",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "潇洒",
     "url": "https://qist.wyfc.qzz.io/xiaosa/api.json",
     "enable": true,
-    "last_check": "2026-06-11 12:55:17",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "电视",
     "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
     "enable": true,
-    "last_check": "2026-06-11 12:55:17",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "牛二",
     "url": "https://9280.kstore.space/newwex.json",
     "enable": true,
-    "last_check": "2026-06-11 12:55:17",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "uuccc",
     "url": "http://xn--5mqx81b535a.com/",
     "enable": true,
-    "last_check": "2026-06-11 12:55:18",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "fmys",
     "url": "http://fmys.top/fmys.json",
     "enable": true,
-    "last_check": "2026-06-11 12:55:19",
-    "status": "alive"
-  },
-  {
-    "name": "苍蓝",
-    "url": "https://13537.kstore.vip/tvbox/test.json",
-    "enable": true,
-    "last_check": "2026-06-11 12:55:19",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "新接口",
     "url": "https://www.iyouhun.com/tv/wex",
     "enable": true,
-    "last_check": "2026-06-11 12:55:22",
-    "status": "alive"
-  },
-  {
-    "name": "ok",
-    "url": "https://raw.liucn.cc/box/m.json",
-    "enable": true,
-    "last_check": "2026-06-11 12:55:29",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "看戏网",
     "url": "https://www.gunys.com/",
     "enable": true,
-    "last_check": "2026-06-11 12:55:29",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "荐片",
     "url": "https://tv.203511.xyz/0821.json",
     "enable": true,
-    "last_check": "2026-06-11 12:55:30",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "my interface",
     "url": "http://124.223.214.31:8/api.json",
     "enable": true,
-    "last_check": "2026-06-11 12:55:32",
-    "status": "alive"
-  },
-  {
-    "name": "我",
-    "url": "https://www.kdocs.cn/l/cuyt7V1rZjiS",
-    "enable": true,
-    "last_check": "2026-06-11 12:55:35",
-    "status": "alive"
-  },
-  {
-    "name": "1",
-    "url": "https://700sjro44343.vicp.fun/vip/vip/tv.json",
-    "enable": true,
-    "last_check": "2026-06-11 12:55:36",
-    "status": "alive"
-  },
-  {
-    "name": "cs",
-    "url": "http://tv.nxog.top/m/",
-    "enable": true,
-    "last_check": "2026-06-11 12:55:36",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "MyTV",
     "url": "https://raw.githubusercontent.com/cwezhd/TVList/refs/heads/main/fenghuang.m3u",
     "enable": true,
-    "last_check": "2026-06-11 12:55:36",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "软件",
     "url": "http://47.96.82.41:5188/api.json",
     "enable": true,
-    "last_check": "2026-06-11 12:55:40",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "v",
     "url": "https://qist.wyfc.qzz.io/jsm.json",
     "enable": true,
-    "last_check": "2026-06-11 12:55:40",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "我的",
     "url": "https://codeberg.org/wei88976862/tvbox001/raw/branch/main/fty.json",
     "enable": true,
-    "last_check": "2026-06-11 12:55:41",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "TVBox",
     "url": "https://pastebin.com/raw/sbPpDm9G",
     "enable": true,
-    "last_check": "2026-06-11 12:55:42",
-    "status": "alive"
-  },
-  {
-    "name": "福利",
-    "url": "https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json",
-    "enable": true,
-    "last_check": "2026-06-11 12:55:42",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "Clun在线",
     "url": "https://clun.top/box.json",
     "enable": true,
-    "last_check": "2026-06-11 12:55:42",
-    "status": "alive"
-  },
-  {
-    "name": "南风接口",
-    "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-    "enable": true,
-    "last_check": "2026-06-11 12:55:43",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   },
   {
     "name": "18+",
     "url": "https://raw.githubusercontent.com/xzqcsa/ysc/837da76da2309050fa377e0e366896ea6a64e32f/xzqzy/18.json",
     "enable": true,
-    "last_check": "2026-06-11 12:55:44",
-    "status": "alive"
+    "last_check": "",
+    "status": "unknown",
+    "reason": "ok"
   }
 ]

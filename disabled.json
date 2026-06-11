@@ -1,303 +1,666 @@
 [
   {
+    "name": "应用多多",
+    "url": "https://jihulab.com/duomv/apps/-/raw/main/fast.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "status 403"
+  },
+  {
+    "name": "欧歌",
+    "url": "http://tv.nxog.top/api.php?mz=xb&id=1&b=欧歌",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "invalid content"
+  },
+  {
     "name": "云星日记",
     "url": "http://jk.itvbox.cc:66/可视TV/云星日记/仓库/api.json",
-    "enable": false,
-    "last_check": "2026-06-11 12:52:55",
-    "status": "dead"
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
   },
   {
     "name": "吾爱多仓",
     "url": "http://52bsj.vip:98/wuaihouse",
-    "enable": false,
-    "last_check": "2026-06-11 12:53:05",
-    "status": "dead"
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "HTTPConnectionPool(host='52bsj.vip', port=98): Max retries exceeded with url: /wuaihouse (Caused by ConnectTimeoutError(<HTTPConnection(host='52bsj.vip', port=98) at 0x7ff16c3d8090>, 'Connection to 52bsj.vip timed out. (connect timeout=8)'))"
   },
   {
     "name": "运输车多仓",
     "url": "https://weixine.net/api.json",
-    "enable": false,
-    "last_check": "2026-06-11 12:53:06",
-    "status": "dead"
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "invalid content"
   },
   {
     "name": "运输车多仓备用",
     "url": "https://cf.weixine.net/api.json",
-    "enable": false,
-    "last_check": "2026-06-11 12:53:06",
-    "status": "dead"
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "invalid content"
+  },
+  {
+    "name": "挺好分享多仓",
+    "url": "http://ztha.top/TVBox/GYCK.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "invalid content"
+  },
+  {
+    "name": "拾光多仓",
+    "url": "http://xmbjm.fh4u.org/dc.txt",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "invalid content"
+  },
+  {
+    "name": "小盒子多仓",
+    "url": "http://xhztv.top/dc",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "broken json"
+  },
+  {
+    "name": "摸鱼",
+    "url": "http://我不是.摸鱼儿.top",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "invalid content"
   },
   {
     "name": "V哥",
     "url": "http://多仓.tvbox.中国",
-    "enable": false,
-    "last_check": "2026-06-11 12:53:15",
-    "status": "dead"
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
   },
   {
     "name": "Fongmi",
     "url": "http://fongmi.top/",
-    "enable": false,
-    "last_check": "2026-06-11 12:53:15",
-    "status": "dead"
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "HTTPConnectionPool(host='fongmi.top', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='fongmi.top', port=80): Failed to resolve 'fongmi.top' ([Errno -2] Name or service not known)\"))"
   },
   {
     "name": "毒盒",
     "url": "https://tv.youdu.fan:666",
-    "enable": false,
-    "last_check": "2026-06-11 12:53:25",
-    "status": "dead"
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "HTTPSConnectionPool(host='tv.youdu.fan', port=666): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='tv.youdu.fan', port=666) at 0x7ff16c3dea90>, 'Connection to tv.youdu.fan timed out. (connect timeout=8)'))"
   },
   {
     "name": "应用多多家庭版",
     "url": "http://yydsys.top/duo",
-    "enable": false,
-    "last_check": "2026-06-11 12:53:26",
-    "status": "dead"
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "status 403"
   },
   {
     "name": "唐三线路",
     "url": "https://gh.t4tv.hz.cz/newtang.bmp",
-    "enable": false,
-    "last_check": "2026-06-11 12:53:27",
-    "status": "dead"
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "HTTPSConnectionPool(host='gh.t4tv.hz.cz', port=443): Max retries exceeded with url: /newtang.bmp (Caused by NameResolutionError(\"HTTPSConnection(host='gh.t4tv.hz.cz', port=443): Failed to resolve 'gh.t4tv.hz.cz' ([Errno -2] Name or service not known)\"))"
   },
   {
     "name": "应用多多备用",
     "url": "http://cdn.yydsys.top/duo",
-    "enable": false,
-    "last_check": "2026-06-11 12:53:30",
-    "status": "dead"
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "HTTPConnectionPool(host='cdn.yydsys.top', port=80): Max retries exceeded with url: /duo (Caused by NameResolutionError(\"HTTPConnection(host='cdn.yydsys.top', port=80): Failed to resolve 'cdn.yydsys.top' ([Errno -2] Name or service not known)\"))"
   },
   {
     "name": "阿里精品专线",
     "url": "http://yydsys.top/duo/ali",
-    "enable": false,
-    "last_check": "2026-06-11 12:53:30",
-    "status": "dead"
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "status 403"
   },
   {
     "name": "道长线路",
     "url": "https://pastebin.com/raw/5NHaXyGR",
-    "enable": false,
-    "last_check": "2026-06-11 12:53:31",
-    "status": "dead"
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "status 404"
   },
   {
     "name": "dxawio线路",
     "url": "https://xhdwc.tk/0",
-    "enable": false,
-    "last_check": "2026-06-11 12:53:31",
-    "status": "dead"
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "status 402"
   },
   {
     "name": "饭太硬线路",
     "url": "http://饭太硬.ml/tv",
-    "enable": false,
-    "last_check": "2026-06-11 12:53:31",
-    "status": "dead"
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "HTTPConnectionPool(host='xn--sss604efuw.ml', port=80): Max retries exceeded with url: /tv (Caused by NameResolutionError(\"HTTPConnection(host='xn--sss604efuw.ml', port=80): Failed to resolve 'xn--sss604efuw.ml' ([Errno -2] Name or service not known)\"))"
   },
   {
     "name": "饭太硬线路",
-    "url": "http://www.饭太硬.art/tv",
-    "enable": false,
-    "last_check": "2026-06-11 12:53:45",
-    "status": "dead"
+    "url": "http://www.饭太硬.cc/tv",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "invalid content"
+  },
+  {
+    "name": "饭太硬线路",
+    "url": "http://www.饭太硬.net/tv",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "invalid content"
+  },
+  {
+    "name": "饭太硬线路",
+    "url": "http://fty.888484.xyz/tv",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "invalid content"
+  },
+  {
+    "name": "饭太硬线路",
+    "url": "http://fty.333232.xyz/tv",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "invalid content"
   },
   {
     "name": "菜妮丝线路",
     "url": "https://tvbox.cainisi.cf",
-    "enable": false,
-    "last_check": "2026-06-11 12:53:49",
-    "status": "dead"
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "HTTPSConnectionPool(host='tvbox.cainisi.cf', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='tvbox.cainisi.cf', port=443): Failed to resolve 'tvbox.cainisi.cf' ([Errno -2] Name or service not known)\"))"
   },
   {
     "name": "肥猫线路",
     "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
-    "enable": false,
-    "last_check": "2026-06-11 12:53:49",
-    "status": "dead"
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "HTTPConnectionPool(host='xn--ihqu10cn4c.xn--z7x900a.love', port=63): Max retries exceeded with url: /%E6%8E%A5%E5%8F%A3%E7%A6%81%E6%AD%A2%E8%B4%A9%E5%8D%96 (Caused by NameResolutionError(\"HTTPConnection(host='xn--ihqu10cn4c.xn--z7x900a.love', port=63): Failed to resolve 'xn--ihqu10cn4c.xn--z7x900a.love' ([Errno -2] Name or service not known)\"))"
   },
   {
     "name": "小米线路",
     "url": "http://xhww.fun:63/小米/DEMO.json",
-    "enable": false,
-    "last_check": "2026-06-11 12:53:59",
-    "status": "dead"
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "HTTPConnectionPool(host='xhww.fun', port=63): Max retries exceeded with url: /%E5%B0%8F%E7%B1%B3/DEMO.json (Caused by ConnectTimeoutError(<HTTPConnection(host='xhww.fun', port=63) at 0x7ff16c423790>, 'Connection to xhww.fun timed out. (connect timeout=8)'))"
+  },
+  {
+    "name": "老刘备线路",
+    "url": "https://raw.liucn.cc/box/m.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "invalid content"
   },
   {
     "name": "运输车(有跑马灯)",
     "url": "https://weixine.net/ysc.json",
-    "enable": false,
-    "last_check": "2026-06-11 12:54:00",
-    "status": "dead"
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "invalid content"
+  },
+  {
+    "name": "欧歌线路",
+    "url": "http://tv.nxog.top/m/111.php?DU=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "invalid content"
   },
   {
     "name": "x星辰线路",
     "url": "http://8.210.232.168/xc.json",
-    "enable": false,
-    "last_check": "2026-06-11 12:54:01",
-    "status": "dead"
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "HTTPConnectionPool(host='8.210.232.168', port=80): Max retries exceeded with url: /xc.json (Caused by NewConnectionError(\"HTTPConnection(host='8.210.232.168', port=80): Failed to establish a new connection: [Errno 111] Connection refused\"))"
   },
   {
     "name": "潇洒线路",
     "url": "https://la.kstore.space/download/2863/01.txt",
-    "enable": false,
-    "last_check": "2026-06-11 12:54:01",
-    "status": "dead"
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "status 401"
   },
   {
     "name": "x吾爱线路",
     "url": "http://52bsj.vip:98/wuai",
-    "enable": false,
-    "last_check": "2026-06-11 12:54:11",
-    "status": "dead"
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "HTTPConnectionPool(host='52bsj.vip', port=98): Max retries exceeded with url: /wuai (Caused by ConnectTimeoutError(<HTTPConnection(host='52bsj.vip', port=98) at 0x7ff16c3fd750>, 'Connection to 52bsj.vip timed out. (connect timeout=8)'))"
   },
   {
     "name": "城云星日记",
     "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
-    "enable": false,
-    "last_check": "2026-06-11 12:54:12",
-    "status": "dead"
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "status 503"
   },
   {
     "name": "冰河线路",
     "url": "https://ju.binghe.ga/4.txt",
-    "enable": false,
-    "last_check": "2026-06-11 12:54:12",
-    "status": "dead"
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "HTTPSConnectionPool(host='ju.binghe.ga', port=443): Max retries exceeded with url: /4.txt (Caused by NameResolutionError(\"HTTPSConnection(host='ju.binghe.ga', port=443): Failed to resolve 'ju.binghe.ga' ([Errno -2] Name or service not known)\"))"
   },
   {
     "name": "蚂蚁论坛线路",
     "url": "https://la.kstore.space/download/2883/0110.txt",
-    "enable": false,
-    "last_check": "2026-06-11 12:54:13",
-    "status": "dead"
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "status 401"
   },
   {
     "name": "喵影视线路",
     "url": "http://miaotvs.cn/meow",
-    "enable": false,
-    "last_check": "2026-06-11 12:54:13",
-    "status": "dead"
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "HTTPConnectionPool(host='miaotvs.cn', port=80): Max retries exceeded with url: /meow (Caused by NameResolutionError(\"HTTPConnection(host='miaotvs.cn', port=80): Failed to resolve 'miaotvs.cn' ([Errno -2] Name or service not known)\"))"
   },
   {
     "name": "不良帅线路",
     "url": "https://notabug.org/qizhen15800/My9394/raw/master/ProfessonalEdition.m3u8",
-    "enable": false,
-    "last_check": "2026-06-11 12:54:14",
-    "status": "dead"
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "status 404"
+  },
+  {
+    "name": "月光宝盒",
+    "url": "https://jihulab.com/ygbh1/box//raw/main/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "status 403"
   },
   {
     "name": "源享家线路",
     "url": "https://源享家.ml/23424",
-    "enable": false,
-    "last_check": "2026-06-11 12:54:15",
-    "status": "dead"
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "HTTPSConnectionPool(host='xn--0lqv13avvo.ml', port=443): Max retries exceeded with url: /23424 (Caused by NameResolutionError(\"HTTPSConnection(host='xn--0lqv13avvo.ml', port=443): Failed to resolve 'xn--0lqv13avvo.ml' ([Errno -2] Name or service not known)\"))"
   },
   {
     "name": "乱世线路",
     "url": "http://www.dmtv.ml/mao/single.json",
-    "enable": false,
-    "last_check": "2026-06-11 12:54:15",
-    "status": "dead"
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "HTTPConnectionPool(host='www.dmtv.ml', port=80): Max retries exceeded with url: /mao/single.json (Caused by NameResolutionError(\"HTTPConnection(host='www.dmtv.ml', port=80): Failed to resolve 'www.dmtv.ml' ([Errno -2] Name or service not known)\"))"
+  },
+  {
+    "name": "小马线路",
+    "url": "https://szyyds.cn/tv/x.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "broken json"
   },
   {
     "name": "元兴线路",
     "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
-    "enable": false,
-    "last_check": "2026-06-11 12:54:17",
-    "status": "dead"
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "HTTPSConnectionPool(host='freed.yuanhsing.cf', port=443): Max retries exceeded with url: /TVBox/meowcf.json (Caused by NameResolutionError(\"HTTPSConnection(host='freed.yuanhsing.cf', port=443): Failed to resolve 'freed.yuanhsing.cf' ([Errno -2] Name or service not known)\"))"
   },
   {
     "name": "夜猫子(有跑马灯)",
     "url": "https://download.kstore.space/download/3313/mao/ymz",
-    "enable": false,
-    "last_check": "2026-06-11 12:54:18",
-    "status": "dead"
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "status 401"
   },
   {
     "name": "小胡线路",
     "url": "http://xzam.cn/tv",
-    "enable": false,
-    "last_check": "2026-06-11 12:54:29",
-    "status": "dead"
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "HTTPConnectionPool(host='xzam.cn', port=80): Max retries exceeded with url: /tv (Caused by ConnectTimeoutError(<HTTPConnection(host='xzam.cn', port=80) at 0x7ff16c429210>, 'Connection to xzam.cn timed out. (connect timeout=8)'))"
+  },
+  {
+    "name": "心魔在线",
+    "url": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "invalid content"
   },
   {
     "name": "多多在线",
     "url": "https://gh-proxy.com/raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-    "enable": false,
-    "last_check": "2026-06-11 12:54:30",
-    "status": "dead"
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "status 404"
+  },
+  {
+    "name": "分享在线",
+    "url": "http://hucongrong.web3v.work/%E9%A3%8E%E6%B0%B4/fxz/fxz.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "invalid content"
+  },
+  {
+    "name": "多多影音",
+    "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "invalid content"
+  },
+  {
+    "name": "真心在线",
+    "url": "https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "invalid content"
+  },
+  {
+    "name": "zhangqun1818",
+    "url": "http://zhangqun1818.serv00.net/zq/api.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "invalid content"
   },
   {
     "name": "装歌线路",
     "url": "https://欧歌.v.nxog.top/m/",
-    "enable": false,
-    "last_check": "2026-06-11 12:54:38",
-    "status": "dead"
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  },
+  {
+    "name": "高天流云",
+    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "invalid content"
   },
   {
     "name": "传说线路",
     "url": "https://chuanshuo.77blog.cn/tv.json",
-    "enable": false,
-    "last_check": "2026-06-11 12:54:40",
-    "status": "dead"
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "status 404"
+  },
+  {
+    "name": "环宇轩线",
+    "url": "https://6492.kstore.space/xnf/xnf.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "status 401"
+  },
+  {
+    "name": "南风线路",
+    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "invalid content"
+  },
+  {
+    "name": "D佬线路",
+    "url": "http://rihou.cc:555/nzk/nzk0722.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "invalid content"
+  },
+  {
+    "name": "七星影仓",
+    "url": "https://7337.kstore.space/qxys/%E7%A6%81%E6%AD%A2%E4%BC%A0%E6%92%AD.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "invalid content"
   },
   {
     "name": "无意云",
     "url": "https://ym.wya6.cn/",
-    "enable": false,
-    "last_check": "2026-06-11 12:54:43",
-    "status": "dead"
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "status 456"
+  },
+  {
+    "name": "宝盒线路2026",
+    "url": "https://3043.kstore.space/bhvip/bh/bh2.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "invalid content"
+  },
+  {
+    "name": "月光宝盒源",
+    "url": "https://3043.kstore.space/bhvip/bh/box.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "invalid content"
+  },
+  {
+    "name": "少儿频道",
+    "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "status 403"
   },
   {
     "name": "短剧频道",
     "url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json",
-    "enable": false,
-    "last_check": "2026-06-11 12:55:00",
-    "status": "dead"
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "HTTPConnectionPool(host='box.ufuzi.com', port=80): Max retries exceeded with url: /tv/qq/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api.json (Caused by ConnectTimeoutError(<HTTPConnection(host='box.ufuzi.com', port=80) at 0x7ff16c432e50>, 'Connection to box.ufuzi.com timed out. (connect timeout=8)'))"
   },
   {
     "name": "巧记Box",
     "url": "http://cdn.qiaoji8.com/tvbox.json",
-    "enable": false,
-    "last_check": "2026-06-11 12:55:00",
-    "status": "dead"
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "HTTPConnectionPool(host='cdn.qiaoji8.com', port=80): Max retries exceeded with url: /tvbox.json (Caused by NewConnectionError(\"HTTPConnection(host='cdn.qiaoji8.com', port=80): Failed to establish a new connection: [Errno 111] Connection refused\"))"
+  },
+  {
+    "name": "小盒子4K",
+    "url": "http://xhztv.top/4k.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "broken json"
+  },
+  {
+    "name": "小盒子单仓",
+    "url": "http://xhztv.top/xhz",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "broken json"
   },
   {
     "name": "欧歌接口",
     "url": "https://xn--sdds-rp5imh.v.nxog.top/apitv.php?id=3",
-    "enable": false,
-    "last_check": "2026-06-11 12:55:05",
-    "status": "dead"
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  },
+  {
+    "name": "少儿频道",
+    "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "status 403"
+  },
+  {
+    "name": "二月红接口",
+    "url": "https://700sjro44343.vicp.fun/eggp/0211/tv.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "invalid content"
+  },
+  {
+    "name": "肥猫线路.com",
+    "url": "http://肥猫.com/",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "invalid content"
+  },
+  {
+    "name": "欧歌免费",
+    "url": "https://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=tv",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "invalid content"
+  },
+  {
+    "name": "宝盒接口",
+    "url": "http://宝盒接口.top",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "invalid content"
+  },
+  {
+    "name": "苍蓝",
+    "url": "https://13537.kstore.vip/tvbox/test.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "broken json"
   },
   {
     "name": "麒麟影仓",
     "url": "https://gitee.com/qlysgzs/qlys/raw/master/qlycZHCK.json",
-    "enable": false,
-    "last_check": "2026-06-11 12:55:29",
-    "status": "dead"
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "status 403"
+  },
+  {
+    "name": "ok",
+    "url": "https://raw.liucn.cc/box/m.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "invalid content"
   },
   {
     "name": "青苹果影视",
     "url": "https://www.yzyunhai.com",
-    "enable": false,
-    "last_check": "2026-06-11 12:55:30",
-    "status": "dead"
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  },
+  {
+    "name": "我",
+    "url": "https://www.kdocs.cn/l/cuyt7V1rZjiS",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "invalid content"
+  },
+  {
+    "name": "1",
+    "url": "https://700sjro44343.vicp.fun/vip/vip/tv.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "invalid content"
+  },
+  {
+    "name": "cs",
+    "url": "http://tv.nxog.top/m/",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "invalid content"
+  },
+  {
+    "name": "福利",
+    "url": "https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "invalid content"
   },
   {
     "name": "我的借口",
     "url": "https://tvbox.catvod.com/catvod.json",
-    "enable": false,
-    "last_check": "2026-06-11 12:55:43",
-    "status": "dead"
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "status 403"
+  },
+  {
+    "name": "南风接口",
+    "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "invalid content"
   },
   {
     "name": "双龙",
     "url": "https://xn--jory77o.v.nxog.top/apia.php?id=1",
-    "enable": false,
-    "last_check": "2026-06-11 12:55:44",
-    "status": "dead"
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "reason": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
   }
 ]
