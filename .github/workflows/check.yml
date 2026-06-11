@@ -34,7 +34,8 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
 
-          git add active.json disabled.json
+          # ✅ 关键修复：把所有输出文件都提交
+          git add active.json disabled.json tvbox.json history.json
 
           git diff --cached --quiet || git commit -m "auto update sources"
 
