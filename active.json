@@ -340,6 +340,16 @@
     "stability": 100
   },
   {
+    "name": "环宇轩线",
+    "url": "https://6492.kstore.space/xnf/xnf.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 80,
+    "grade": "A",
+    "stability": 100
+  },
+  {
     "name": "香雅晴线",
     "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
     "enable": true,
@@ -422,6 +432,16 @@
   {
     "name": "少儿频道",
     "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 40,
+    "grade": "C",
+    "stability": 100
+  },
+  {
+    "name": "欧歌免费",
+    "url": "https://tv.nxog.top/m",
     "enable": true,
     "last_check": "",
     "status": "unknown",
@@ -658,16 +678,6 @@
     "score": 60,
     "grade": "B",
     "stability": 100
-  },
-  {
-    "name": "饭太硬线路",
-    "url": "http://www.饭太硬.art/tv",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 40
   },
   {
     "name": "饭太硬线路",

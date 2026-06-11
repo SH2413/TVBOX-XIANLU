@@ -1,0 +1,44 @@
+{
+  "sites": [
+    {
+      "name": "应用多多",
+      "url": "https://jihulab.com/duomv/apps/-/raw/main/fast.json"
+    },
+    {
+      "name": "多仓",
+      "url": "https://cyuan.netlify.app/tvbox/duo.json"
+    },
+    {
+      "name": "挺好分享多仓",
+      "url": "http://ztha.top/TVBox/GYCK.json"
+    },
+    {
+      "name": "小盒子多仓（备）",
+      "url": "http://xhztv.top/DC.txt"
+    },
+    {
+      "name": "小盒子多仓",
+      "url": "http://xhztv.top/dc"
+    },
+    {
+      "name": "游魂多仓",
+      "url": "https://www.iyouhun.com/tv/dc"
+    },
+    {
+      "name": "游魂多仓（备）",
+      "url": "https://www.iyouhun.com/tv/yh"
+    },
+    {
+      "name": "讴歌",
+      "url": "http://tv.nxog.top/"
+    },
+    {
+      "name": "俊佬线路",
+      "url": "http://home.jundie.top:81/top98.json"
+    },
+    {
+      "name": "蜂蜜线路",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"
+    }
+  ]
+}
