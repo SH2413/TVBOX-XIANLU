@@ -13,64 +13,85 @@ HEADERS = {
 TIMEOUT = 8
 
 
-def is_valid_content(text: str) -> bool:
-    """判断内容是否真实可用"""
-    if not text:
-        return False
+def calculate_score(status_code, content, is_json, error=None):
+    score = 0
 
-    t = text.strip().lower()
+    # 1️⃣ HTTP状态
+    if status_code == 200:
+        score += 30
+    elif status_code:
+        score += 10
 
-    # ❌ 明确失效关键词
-    bad_keywords = [
-        "404", "not found", "expired", "域名", "出售",
-        "error", "invalid", "公告", "测试", "closed"
-    ]
+    # 2️⃣ 内容长度
+    length = len(content or "")
+    if length > 1000:
+        score += 30
+    elif length > 300:
+        score += 20
+    elif length > 50:
+        score += 10
 
-    if any(k in t for k in bad_keywords):
-        return False
+    # 3️⃣ JSON质量
+    if is_json:
+        score += 20
 
-    # ❌ 太短基本是空接口
-    if len(t) < 50:
-        return False
+    # 4️⃣ 内容稳定性
+    bad_keywords = ["404", "not found", "expired", "域名", "出售", "error", "测试", "公告"]
 
-    return True
+    if content:
+        lower = content.lower()
+        if any(k in lower for k in bad_keywords):
+            score -= 30
+
+    # 5️⃣ 错误扣分
+    if error:
+        score -= 20
+
+    return max(score, 0)
+
+
+def classify(score):
+    if score >= 80:
+        return "A"
+    elif score >= 60:
+        return "B"
+    elif score >= 40:
+        return "C"
+    else:
+        return "FAIL"
 
 
 def check_url(item):
     url = item.get("url", "").strip()
 
     if not url:
-        return False, "empty url"
+        return False, 0, "empty url"
 
     try:
         r = requests.get(url, headers=HEADERS, timeout=TIMEOUT, verify=False)
 
         content = r.text or ""
+        status = r.status_code
 
-        # 1️⃣ HTTP检查
-        if r.status_code != 200:
-            return False, f"status {r.status_code}"
-
-        # 2️⃣ 内容长度检查
-        if len(content) < 50:
-            return False, "too short"
-
-        # 3️⃣ 内容有效性检查
-        if not is_valid_content(content):
-            return False, "invalid content"
-
-        # 4️⃣ JSON接口检测（可选增强）
-        ctype = r.headers.get("Content-Type", "")
-        if "application/json" in ctype:
-            try:
+        is_json = False
+        try:
+            if "application/json" in r.headers.get("Content-Type", ""):
                 json.loads(content)
-            except:
-                return False, "broken json"
+                is_json = True
+        except:
+            is_json = False
 
-        return True, "ok"
+        score = calculate_score(status, content, is_json)
+
+        grade = classify(score)
+
+        if score < 40:
+            return False, score, grade
+
+        return True, score, grade
 
     except requests.exceptions.RequestException as e:
-        return False, str(e)
+        return False, 0, str(e)
 
 
 def main():
@@ -83,18 +104,23 @@ def main():
     print(f"Total sources: {len(sources)}")
 
     for i, item in enumerate(sources, 1):
-        ok, reason = check_url(item)
 
-        item["reason"] = reason
+        ok, score, grade = check_url(item)
+
+        item["score"] = score
+        item["grade"] = grade
 
         if ok:
             active.append(item)
-            print(f"[OK] {i}/{len(sources)} {item.get('name','')}")
+            print(f"[ACTIVE A] {i}/{len(sources)} score={score} grade={grade} {item.get('name','')}")
         else:
             disabled.append(item)
-            print(f"[FAIL] {i}/{len(sources)} {reason}")
+            print(f"[FAIL] {i}/{len(sources)} score={score} grade={grade}")
 
-        time.sleep(0.2)  # 防止请求过快
+        time.sleep(0.2)
+
+    # 🔥 按评分排序（关键升级）
+    active.sort(key=lambda x: x.get("score", 0), reverse=True)
 
     with open(ACTIVE_FILE, "w", encoding="utf-8") as f:
         json.dump(active, f, ensure_ascii=False, indent=2)
