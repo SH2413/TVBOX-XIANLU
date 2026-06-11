@@ -175,14 +175,19 @@ def main():
     top10 = active[:10]
 
     tvbox_data = {
-        "sites": [
-            {
-                "name": x.get("name"),
-                "url": x.get("url")
-            }
-            for x in top10
-        ]
-    }
+    "sites": [
+        {
+            "key": x.get("name", ""),
+            "name": x.get("name", ""),
+            "type": 3,
+            "api": x.get("url", ""),
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        }
+        for x in top10
+    ]
+}
 
     # =========================
     # 写文件
