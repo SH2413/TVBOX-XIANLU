@@ -627,7 +627,7 @@
     "status": "unknown",
     "score": 60,
     "grade": "B",
-    "stability": 66
+    "stability": 75
   },
   {
     "name": "D佬线路",
@@ -637,7 +637,7 @@
     "status": "unknown",
     "score": 50,
     "grade": "C",
-    "stability": 66
+    "stability": 75
   },
   {
     "name": "影视仓",
@@ -647,7 +647,7 @@
     "status": "unknown",
     "score": 60,
     "grade": "B",
-    "stability": 66
+    "stability": 75
   },
   {
     "name": "uuccc",
@@ -657,7 +657,7 @@
     "status": "unknown",
     "score": 60,
     "grade": "B",
-    "stability": 66
+    "stability": 75
   },
   {
     "name": "南风线路",
@@ -667,7 +667,7 @@
     "status": "unknown",
     "score": 40,
     "grade": "C",
-    "stability": 60
+    "stability": 57
   },
   {
     "name": "高天流云",
@@ -677,17 +677,17 @@
     "status": "unknown",
     "score": 60,
     "grade": "B",
-    "stability": 60
+    "stability": 57
   },
   {
-    "name": "欧歌免费",
-    "url": "https://tv.nxog.top/m",
+    "name": "福利",
+    "url": "https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json",
     "enable": true,
     "last_check": "",
     "status": "unknown",
     "score": 40,
     "grade": "C",
-    "stability": 40
+    "stability": 50
   },
   {
     "name": "饭太硬线路",
