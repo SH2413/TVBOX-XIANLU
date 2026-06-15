@@ -617,7 +617,7 @@
     "status": "unknown",
     "score": 60,
     "grade": "B",
-    "stability": 83
+    "stability": 85
   },
   {
     "name": "D佬线路",
@@ -627,7 +627,7 @@
     "status": "unknown",
     "score": 50,
     "grade": "C",
-    "stability": 83
+    "stability": 85
   },
   {
     "name": "影视仓",
@@ -637,7 +637,7 @@
     "status": "unknown",
     "score": 60,
     "grade": "B",
-    "stability": 83
+    "stability": 85
   },
   {
     "name": "uuccc",
@@ -647,7 +647,7 @@
     "status": "unknown",
     "score": 60,
     "grade": "B",
-    "stability": 83
+    "stability": 85
   },
   {
     "name": "看戏网",
@@ -657,7 +657,7 @@
     "status": "unknown",
     "score": 60,
     "grade": "B",
-    "stability": 83
+    "stability": 85
   },
   {
     "name": "讴歌",
@@ -667,17 +667,7 @@
     "status": "unknown",
     "score": 40,
     "grade": "C",
-    "stability": 66
-  },
-  {
-    "name": "福利",
-    "url": "https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 40,
-    "grade": "C",
-    "stability": 66
+    "stability": 71
   },
   {
     "name": "南风线路",
