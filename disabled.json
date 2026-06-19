@@ -5,8 +5,8 @@
     "enable": true,
     "last_check": "",
     "status": "unknown",
-    "score": 0,
-    "grade": "HTTPConnectionPool(host='tv.nxog.top', port=80): Max retries exceeded with url: /api.php?mz=xb&id=1&b=%E6%AC%A7%E6%AD%8C (Caused by NewConnectionError(\"HTTPConnection(host='tv.nxog.top', port=80): Failed to establish a new connection: [Errno 111] Connection refused\"))",
+    "score": 30,
+    "grade": "FAIL",
     "stability": 0
   },
   {
@@ -26,7 +26,7 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPConnectionPool(host='52bsj.vip', port=98): Max retries exceeded with url: /wuaihouse (Caused by ConnectTimeoutError(<HTTPConnection(host='52bsj.vip', port=98) at 0x7f37cad98090>, 'Connection to 52bsj.vip timed out. (connect timeout=8)'))",
+    "grade": "HTTPConnectionPool(host='52bsj.vip', port=98): Max retries exceeded with url: /wuaihouse (Caused by ConnectTimeoutError(<HTTPConnection(host='52bsj.vip', port=98) at 0x7f8f0af64e90>, 'Connection to 52bsj.vip timed out. (connect timeout=8)'))",
     "stability": 0
   },
   {
@@ -36,7 +36,7 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPSConnectionPool(host='weixine.net', port=443): Max retries exceeded with url: /api.json (Caused by ConnectTimeoutError(<HTTPSConnection(host='weixine.net', port=443) at 0x7f37cadba310>, 'Connection to weixine.net timed out. (connect timeout=8)'))",
+    "grade": "HTTPSConnectionPool(host='weixine.net', port=443): Max retries exceeded with url: /api.json (Caused by ConnectTimeoutError(<HTTPSConnection(host='weixine.net', port=443) at 0x7f8f0af65ad0>, 'Connection to weixine.net timed out. (connect timeout=8)'))",
     "stability": 0
   },
   {
@@ -46,7 +46,7 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPSConnectionPool(host='cf.weixine.net', port=443): Max retries exceeded with url: /api.json (Caused by ConnectTimeoutError(<HTTPSConnection(host='cf.weixine.net', port=443) at 0x7f37cadbb790>, 'Connection to cf.weixine.net timed out. (connect timeout=8)'))",
+    "grade": "HTTPSConnectionPool(host='cf.weixine.net', port=443): Max retries exceeded with url: /api.json (Caused by ConnectTimeoutError(<HTTPSConnection(host='cf.weixine.net', port=443) at 0x7f8f0af67210>, 'Connection to cf.weixine.net timed out. (connect timeout=8)'))",
     "stability": 0
   },
   {
@@ -60,26 +60,6 @@
     "stability": 0
   },
   {
-    "name": "游魂多仓",
-    "url": "https://www.iyouhun.com/tv/dc",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 0,
-    "grade": "HTTPSConnectionPool(host='www.xn--s6wu47g.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='www.xn--s6wu47g.com', port=443): Failed to establish a new connection: [Errno 111] Connection refused\"))",
-    "stability": 85
-  },
-  {
-    "name": "游魂多仓（备）",
-    "url": "https://www.iyouhun.com/tv/yh",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 0,
-    "grade": "HTTPSConnectionPool(host='www.xn--s6wu47g.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='www.xn--s6wu47g.com', port=443): Failed to establish a new connection: [Errno 111] Connection refused\"))",
-    "stability": 85
-  },
-  {
     "name": "摸鱼",
     "url": "http://我不是.摸鱼儿.top",
     "enable": true,
@@ -88,16 +68,6 @@
     "score": 30,
     "grade": "FAIL",
     "stability": 0
-  },
-  {
-    "name": "讴歌",
-    "url": "http://tv.nxog.top/",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 0,
-    "grade": "HTTPConnectionPool(host='tv.nxog.top', port=80): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPConnection(host='tv.nxog.top', port=80): Failed to establish a new connection: [Errno 111] Connection refused\"))",
-    "stability": 42
   },
   {
     "name": "V哥",
@@ -126,7 +96,7 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPSConnectionPool(host='tv.youdu.fan', port=666): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='tv.youdu.fan', port=666) at 0x7f37cade8510>, 'Connection to tv.youdu.fan timed out. (connect timeout=8)'))",
+    "grade": "HTTPSConnectionPool(host='tv.youdu.fan', port=666): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='tv.youdu.fan', port=666) at 0x7f8f0af66950>, 'Connection to tv.youdu.fan timed out. (connect timeout=8)'))",
     "stability": 0
   },
   {
@@ -221,23 +191,13 @@
   },
   {
     "name": "饭太硬线路",
-    "url": "http://www.饭太硬.art/tv",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 0,
-    "grade": "FAIL",
-    "stability": 14
-  },
-  {
-    "name": "饭太硬线路",
     "url": "http://fty.888484.xyz/tv",
     "enable": true,
     "last_check": "",
     "status": "unknown",
     "score": 30,
     "grade": "FAIL",
-    "stability": 14
+    "stability": 28
   },
   {
     "name": "饭太硬线路",
@@ -247,7 +207,7 @@
     "status": "unknown",
     "score": 30,
     "grade": "FAIL",
-    "stability": 14
+    "stability": 28
   },
   {
     "name": "菜妮丝线路",
@@ -276,7 +236,7 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPConnectionPool(host='xhww.fun', port=63): Max retries exceeded with url: /%E5%B0%8F%E7%B1%B3/DEMO.json (Caused by ConnectTimeoutError(<HTTPConnection(host='xhww.fun', port=63) at 0x7f37cae03cd0>, 'Connection to xhww.fun timed out. (connect timeout=8)'))",
+    "grade": "HTTPConnectionPool(host='xhww.fun', port=63): Max retries exceeded with url: /%E5%B0%8F%E7%B1%B3/DEMO.json (Caused by ConnectTimeoutError(<HTTPConnection(host='xhww.fun', port=63) at 0x7f8f0af97f90>, 'Connection to xhww.fun timed out. (connect timeout=8)'))",
     "stability": 0
   },
   {
@@ -296,7 +256,7 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPSConnectionPool(host='weixine.net', port=443): Max retries exceeded with url: /ysc.json (Caused by ConnectTimeoutError(<HTTPSConnection(host='weixine.net', port=443) at 0x7f37cadfea10>, 'Connection to weixine.net timed out. (connect timeout=8)'))",
+    "grade": "HTTPSConnectionPool(host='weixine.net', port=443): Max retries exceeded with url: /ysc.json (Caused by ConnectTimeoutError(<HTTPSConnection(host='weixine.net', port=443) at 0x7f8f0afaea50>, 'Connection to weixine.net timed out. (connect timeout=8)'))",
     "stability": 0
   },
   {
@@ -305,8 +265,8 @@
     "enable": true,
     "last_check": "",
     "status": "unknown",
-    "score": 0,
-    "grade": "HTTPConnectionPool(host='tv.nxog.top', port=80): Max retries exceeded with url: /m/111.php?DU=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2 (Caused by NewConnectionError(\"HTTPConnection(host='tv.nxog.top', port=80): Failed to establish a new connection: [Errno 111] Connection refused\"))",
+    "score": 30,
+    "grade": "FAIL",
     "stability": 0
   },
   {
@@ -336,7 +296,7 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPConnectionPool(host='52bsj.vip', port=98): Max retries exceeded with url: /wuai (Caused by ConnectTimeoutError(<HTTPConnection(host='52bsj.vip', port=98) at 0x7f37cadf7110>, 'Connection to 52bsj.vip timed out. (connect timeout=8)'))",
+    "grade": "HTTPConnectionPool(host='52bsj.vip', port=98): Max retries exceeded with url: /wuai (Caused by ConnectTimeoutError(<HTTPConnection(host='52bsj.vip', port=98) at 0x7f8f0afbce10>, 'Connection to 52bsj.vip timed out. (connect timeout=8)'))",
     "stability": 0
   },
   {
@@ -436,7 +396,7 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPConnectionPool(host='xzam.cn', port=80): Max retries exceeded with url: /tv (Caused by ConnectTimeoutError(<HTTPConnection(host='xzam.cn', port=80) at 0x7f37cadca350>, 'Connection to xzam.cn timed out. (connect timeout=8)'))",
+    "grade": "HTTPConnectionPool(host='xzam.cn', port=80): Max retries exceeded with url: /tv (Caused by ConnectTimeoutError(<HTTPConnection(host='xzam.cn', port=80) at 0x7f8f0afa9f10>, 'Connection to xzam.cn timed out. (connect timeout=8)'))",
     "stability": 0
   },
   {
@@ -540,16 +500,6 @@
     "stability": 0
   },
   {
-    "name": "盒子迷2026",
-    "url": "https://盒子迷.top/禁止贩卖",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 0,
-    "grade": "HTTPSConnectionPool(host='xn--i8sz35d1yr.top', port=443): Max retries exceeded with url: /%E7%A6%81%E6%AD%A2%E8%B4%A9%E5%8D%96 (Caused by ConnectTimeoutError(<HTTPSConnection(host='xn--i8sz35d1yr.top', port=443) at 0x7f37cae0e590>, 'Connection to xn--i8sz35d1yr.top timed out. (connect timeout=8)'))",
-    "stability": 85
-  },
-  {
     "name": "宝盒线路2026",
     "url": "https://3043.kstore.space/bhvip/bh/bh2.json",
     "enable": true,
@@ -576,7 +526,7 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPConnectionPool(host='box.ufuzi.com', port=80): Max retries exceeded with url: /tv/qq/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api.json (Caused by ConnectTimeoutError(<HTTPConnection(host='box.ufuzi.com', port=80) at 0x7f37cae0d1d0>, 'Connection to box.ufuzi.com timed out. (connect timeout=8)'))",
+    "grade": "HTTPConnectionPool(host='box.ufuzi.com', port=80): Max retries exceeded with url: /tv/qq/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api.json (Caused by ConnectTimeoutError(<HTTPConnection(host='box.ufuzi.com', port=80) at 0x7f8f0afdd6d0>, 'Connection to box.ufuzi.com timed out. (connect timeout=8)'))",
     "stability": 0
   },
   {
@@ -588,16 +538,6 @@
     "score": 0,
     "grade": "HTTPConnectionPool(host='cdn.qiaoji8.com', port=80): Max retries exceeded with url: /tvbox.json (Caused by NewConnectionError(\"HTTPConnection(host='cdn.qiaoji8.com', port=80): Failed to establish a new connection: [Errno 111] Connection refused\"))",
     "stability": 0
-  },
-  {
-    "name": "欧歌免费",
-    "url": "https://tv.nxog.top/m",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 0,
-    "grade": "HTTPSConnectionPool(host='tv.nxog.top', port=443): Max retries exceeded with url: /m (Caused by NewConnectionError(\"HTTPSConnection(host='tv.nxog.top', port=443): Failed to establish a new connection: [Errno 111] Connection refused\"))",
-    "stability": 42
   },
   {
     "name": "欧歌接口",
@@ -625,8 +565,8 @@
     "enable": true,
     "last_check": "",
     "status": "unknown",
-    "score": 0,
-    "grade": "HTTPSConnectionPool(host='tv.nxog.top', port=443): Max retries exceeded with url: /m/111.php?ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp&mz=index&jar=index&123&b=tv (Caused by NewConnectionError(\"HTTPSConnection(host='tv.nxog.top', port=443): Failed to establish a new connection: [Errno 111] Connection refused\"))",
+    "score": 30,
+    "grade": "FAIL",
     "stability": 28
   },
   {
@@ -690,14 +630,14 @@
     "stability": 0
   },
   {
-    "name": "软件",
-    "url": "http://47.96.82.41:5188/api.json",
+    "name": "福利",
+    "url": "https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json",
     "enable": true,
     "last_check": "",
     "status": "unknown",
-    "score": 0,
-    "grade": "HTTPConnectionPool(host='47.96.82.41', port=5188): Max retries exceeded with url: /api.json (Caused by NewConnectionError(\"HTTPConnection(host='47.96.82.41', port=5188): Failed to establish a new connection: [Errno 111] Connection refused\"))",
-    "stability": 85
+    "score": 30,
+    "grade": "FAIL",
+    "stability": 42
   },
   {
     "name": "我的借口",
