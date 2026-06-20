@@ -280,16 +280,6 @@
     "stability": 100
   },
   {
-    "name": "影视仓单线",
-    "url": "http://影视仓.com/",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 100
-  },
-  {
     "name": "宝盒备用",
     "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json",
     "enable": true,
@@ -410,16 +400,6 @@
     "stability": 100
   },
   {
-    "name": "影视仓",
-    "url": "http://影视仓.com/",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 100
-  },
-  {
     "name": "王二小",
     "url": "https://9280.kstore.vip/newwex.json",
     "enable": true,
@@ -490,16 +470,6 @@
     "stability": 100
   },
   {
-    "name": "uuccc",
-    "url": "http://xn--5mqx81b535a.com/",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 100
-  },
-  {
     "name": "fmys",
     "url": "http://fmys.top/fmys.json",
     "enable": true,
@@ -522,6 +492,16 @@
   {
     "name": "新接口",
     "url": "https://www.iyouhun.com/tv/wex",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 60,
+    "grade": "B",
+    "stability": 100
+  },
+  {
+    "name": "看戏网",
+    "url": "https://www.gunys.com/",
     "enable": true,
     "last_check": "",
     "status": "unknown",
@@ -640,16 +620,6 @@
     "stability": 85
   },
   {
-    "name": "看戏网",
-    "url": "https://www.gunys.com/",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 85
-  },
-  {
     "name": "软件",
     "url": "http://47.96.82.41:5188/api.json",
     "enable": true,
@@ -658,16 +628,6 @@
     "score": 80,
     "grade": "A",
     "stability": 85
-  },
-  {
-    "name": "讴歌",
-    "url": "http://tv.nxog.top/",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 40,
-    "grade": "C",
-    "stability": 57
   },
   {
     "name": "南风线路",
@@ -690,16 +650,6 @@
     "stability": 57
   },
   {
-    "name": "欧歌免费",
-    "url": "https://tv.nxog.top/m",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 40,
-    "grade": "C",
-    "stability": 42
-  },
-  {
     "name": "二月红接口",
     "url": "https://700sjro44343.vicp.fun/eggp/0211/tv.json",
     "enable": true,
@@ -707,7 +657,7 @@
     "status": "unknown",
     "score": 80,
     "grade": "A",
-    "stability": 42
+    "stability": 57
   },
   {
     "name": "1",
@@ -717,17 +667,7 @@
     "status": "unknown",
     "score": 80,
     "grade": "A",
-    "stability": 42
-  },
-  {
-    "name": "饭太硬线路",
-    "url": "http://www.饭太硬.art/tv",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 28
+    "stability": 57
   },
   {
     "name": "饭太硬线路",
@@ -737,6 +677,6 @@
     "status": "unknown",
     "score": 60,
     "grade": "B",
-    "stability": 14
+    "stability": 28
   }
 ]
