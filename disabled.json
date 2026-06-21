@@ -26,7 +26,7 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPConnectionPool(host='52bsj.vip', port=98): Max retries exceeded with url: /wuaihouse (Caused by ConnectTimeoutError(<HTTPConnection(host='52bsj.vip', port=98) at 0x7f182a4ff710>, 'Connection to 52bsj.vip timed out. (connect timeout=8)'))",
+    "grade": "HTTPConnectionPool(host='52bsj.vip', port=98): Max retries exceeded with url: /wuaihouse (Caused by ConnectTimeoutError(<HTTPConnection(host='52bsj.vip', port=98) at 0x7f0ba448fd90>, 'Connection to 52bsj.vip timed out. (connect timeout=8)'))",
     "stability": 0
   },
   {
@@ -36,7 +36,7 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPSConnectionPool(host='weixine.net', port=443): Max retries exceeded with url: /api.json (Caused by ConnectTimeoutError(<HTTPSConnection(host='weixine.net', port=443) at 0x7f182a52dd50>, 'Connection to weixine.net timed out. (connect timeout=8)'))",
+    "grade": "FAIL",
     "stability": 0
   },
   {
@@ -46,7 +46,7 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPSConnectionPool(host='cf.weixine.net', port=443): Max retries exceeded with url: /api.json (Caused by ConnectTimeoutError(<HTTPSConnection(host='cf.weixine.net', port=443) at 0x7f182a52f250>, 'Connection to cf.weixine.net timed out. (connect timeout=8)'))",
+    "grade": "FAIL",
     "stability": 0
   },
   {
@@ -77,7 +77,7 @@
     "status": "unknown",
     "score": 0,
     "grade": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
-    "stability": 42
+    "stability": 28
   },
   {
     "name": "V哥",
@@ -106,7 +106,7 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPSConnectionPool(host='tv.youdu.fan', port=666): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='tv.youdu.fan', port=666) at 0x7f182a53ad90>, 'Connection to tv.youdu.fan timed out. (connect timeout=8)'))",
+    "grade": "HTTPSConnectionPool(host='tv.youdu.fan', port=666): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='tv.youdu.fan', port=666) at 0x7f0ba447b590>, 'Connection to tv.youdu.fan timed out. (connect timeout=8)'))",
     "stability": 0
   },
   {
@@ -177,7 +177,7 @@
     "status": "unknown",
     "score": 0,
     "grade": "HTTPConnectionPool(host='xn--sss604efuw.ml', port=80): Max retries exceeded with url: /tv (Caused by NameResolutionError(\"HTTPConnection(host='xn--sss604efuw.ml', port=80): Failed to resolve 'xn--sss604efuw.ml' ([Errno -2] Name or service not known)\"))",
-    "stability": 28
+    "stability": 14
   },
   {
     "name": "饭太硬线路",
@@ -187,7 +187,7 @@
     "status": "unknown",
     "score": 30,
     "grade": "FAIL",
-    "stability": 28
+    "stability": 14
   },
   {
     "name": "饭太硬线路",
@@ -196,16 +196,6 @@
     "last_check": "",
     "status": "unknown",
     "score": 30,
-    "grade": "FAIL",
-    "stability": 28
-  },
-  {
-    "name": "饭太硬线路",
-    "url": "http://www.饭太硬.art/tv",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 0,
     "grade": "FAIL",
     "stability": 14
   },
@@ -217,7 +207,7 @@
     "status": "unknown",
     "score": 30,
     "grade": "FAIL",
-    "stability": 14
+    "stability": 28
   },
   {
     "name": "饭太硬线路",
@@ -225,9 +215,9 @@
     "enable": true,
     "last_check": "",
     "status": "unknown",
-    "score": 10,
+    "score": 30,
     "grade": "FAIL",
-    "stability": 14
+    "stability": 28
   },
   {
     "name": "菜妮丝线路",
@@ -256,7 +246,7 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPConnectionPool(host='xhww.fun', port=63): Max retries exceeded with url: /%E5%B0%8F%E7%B1%B3/DEMO.json (Caused by ConnectTimeoutError(<HTTPConnection(host='xhww.fun', port=63) at 0x7f182a573a90>, 'Connection to xhww.fun timed out. (connect timeout=8)'))",
+    "grade": "HTTPConnectionPool(host='xhww.fun', port=63): Max retries exceeded with url: /%E5%B0%8F%E7%B1%B3/DEMO.json (Caused by ConnectTimeoutError(<HTTPConnection(host='xhww.fun', port=63) at 0x7f0ba44f7810>, 'Connection to xhww.fun timed out. (connect timeout=8)'))",
     "stability": 0
   },
   {
@@ -276,7 +266,7 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPSConnectionPool(host='weixine.net', port=443): Max retries exceeded with url: /ysc.json (Caused by ConnectTimeoutError(<HTTPSConnection(host='weixine.net', port=443) at 0x7f182a55e790>, 'Connection to weixine.net timed out. (connect timeout=8)'))",
+    "grade": "FAIL",
     "stability": 0
   },
   {
@@ -316,7 +306,7 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPConnectionPool(host='52bsj.vip', port=98): Max retries exceeded with url: /wuai (Caused by ConnectTimeoutError(<HTTPConnection(host='52bsj.vip', port=98) at 0x7f182a55ed90>, 'Connection to 52bsj.vip timed out. (connect timeout=8)'))",
+    "grade": "HTTPConnectionPool(host='52bsj.vip', port=98): Max retries exceeded with url: /wuai (Caused by ConnectTimeoutError(<HTTPConnection(host='52bsj.vip', port=98) at 0x7f0ba44fcad0>, 'Connection to 52bsj.vip timed out. (connect timeout=8)'))",
     "stability": 0
   },
   {
@@ -416,7 +406,7 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPConnectionPool(host='xzam.cn', port=80): Max retries exceeded with url: /tv (Caused by ConnectTimeoutError(<HTTPConnection(host='xzam.cn', port=80) at 0x7f182a572cd0>, 'Connection to xzam.cn timed out. (connect timeout=8)'))",
+    "grade": "HTTPConnectionPool(host='xzam.cn', port=80): Max retries exceeded with url: /tv (Caused by ConnectTimeoutError(<HTTPConnection(host='xzam.cn', port=80) at 0x7f0ba44f5bd0>, 'Connection to xzam.cn timed out. (connect timeout=8)'))",
     "stability": 0
   },
   {
@@ -477,7 +467,7 @@
     "status": "unknown",
     "score": 0,
     "grade": "FAIL",
-    "stability": 85
+    "stability": 71
   },
   {
     "name": "装歌线路",
@@ -556,7 +546,7 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPConnectionPool(host='box.ufuzi.com', port=80): Max retries exceeded with url: /tv/qq/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api.json (Caused by ConnectTimeoutError(<HTTPConnection(host='box.ufuzi.com', port=80) at 0x7f182a594310>, 'Connection to box.ufuzi.com timed out. (connect timeout=8)'))",
+    "grade": "HTTPConnectionPool(host='box.ufuzi.com', port=80): Max retries exceeded with url: /tv/qq/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api.json (Caused by ConnectTimeoutError(<HTTPConnection(host='box.ufuzi.com', port=80) at 0x7f0ba4509a90>, 'Connection to box.ufuzi.com timed out. (connect timeout=8)'))",
     "stability": 0
   },
   {
@@ -577,7 +567,17 @@
     "status": "unknown",
     "score": 0,
     "grade": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
-    "stability": 28
+    "stability": 14
+  },
+  {
+    "name": "小盒子单仓",
+    "url": "http://xhztv.top/xhz",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 0,
+    "grade": "HTTPConnectionPool(host='xhztv.top', port=80): Max retries exceeded with url: /xhz/ (Caused by ConnectTimeoutError(<HTTPConnection(host='xhztv.top', port=80) at 0x7f0ba453ecd0>, 'Connection to xhztv.top timed out. (connect timeout=8)'))",
+    "stability": 85
   },
   {
     "name": "影视仓",
@@ -587,7 +587,7 @@
     "status": "unknown",
     "score": 0,
     "grade": "FAIL",
-    "stability": 85
+    "stability": 71
   },
   {
     "name": "欧歌接口",
@@ -636,6 +636,16 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
+    "grade": "FAIL",
+    "stability": 71
+  },
+  {
+    "name": "苍蓝",
+    "url": "https://13537.kstore.vip/tvbox/test.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 10,
     "grade": "FAIL",
     "stability": 85
   },
@@ -697,7 +707,7 @@
     "status": "unknown",
     "score": 30,
     "grade": "FAIL",
-    "stability": 28
+    "stability": 14
   },
   {
     "name": "我的借口",

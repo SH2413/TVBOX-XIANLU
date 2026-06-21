@@ -390,16 +390,6 @@
     "stability": 100
   },
   {
-    "name": "小盒子单仓",
-    "url": "http://xhztv.top/xhz",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 100
-  },
-  {
     "name": "王二小",
     "url": "https://9280.kstore.vip/newwex.json",
     "enable": true,
@@ -477,16 +467,6 @@
     "status": "unknown",
     "score": 80,
     "grade": "A",
-    "stability": 100
-  },
-  {
-    "name": "苍蓝",
-    "url": "https://13537.kstore.vip/tvbox/test.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
     "stability": 100
   },
   {
@@ -630,6 +610,26 @@
     "stability": 85
   },
   {
+    "name": "二月红接口",
+    "url": "https://700sjro44343.vicp.fun/eggp/0211/tv.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 80,
+    "grade": "A",
+    "stability": 71
+  },
+  {
+    "name": "1",
+    "url": "https://700sjro44343.vicp.fun/vip/vip/tv.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 80,
+    "grade": "A",
+    "stability": 71
+  },
+  {
     "name": "南风线路",
     "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Xc.json",
     "enable": true,
@@ -650,24 +650,14 @@
     "stability": 57
   },
   {
-    "name": "二月红接口",
-    "url": "https://700sjro44343.vicp.fun/eggp/0211/tv.json",
+    "name": "饭太硬线路",
+    "url": "http://www.饭太硬.art/tv",
     "enable": true,
     "last_check": "",
     "status": "unknown",
-    "score": 80,
-    "grade": "A",
-    "stability": 57
-  },
-  {
-    "name": "1",
-    "url": "https://700sjro44343.vicp.fun/vip/vip/tv.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 80,
-    "grade": "A",
-    "stability": 57
+    "score": 60,
+    "grade": "B",
+    "stability": 28
   },
   {
     "name": "饭太硬线路",
@@ -677,6 +667,6 @@
     "status": "unknown",
     "score": 60,
     "grade": "B",
-    "stability": 28
+    "stability": 14
   }
 ]
