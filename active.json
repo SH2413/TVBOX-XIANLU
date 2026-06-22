@@ -600,13 +600,13 @@
     "stability": 85
   },
   {
-    "name": "软件",
-    "url": "http://47.96.82.41:5188/api.json",
+    "name": "小盒子单仓",
+    "url": "http://xhztv.top/xhz",
     "enable": true,
     "last_check": "",
     "status": "unknown",
-    "score": 80,
-    "grade": "A",
+    "score": 60,
+    "grade": "B",
     "stability": 85
   },
   {
@@ -617,7 +617,7 @@
     "status": "unknown",
     "score": 80,
     "grade": "A",
-    "stability": 71
+    "stability": 85
   },
   {
     "name": "1",
@@ -627,6 +627,46 @@
     "status": "unknown",
     "score": 80,
     "grade": "A",
+    "stability": 85
+  },
+  {
+    "name": "软件",
+    "url": "http://47.96.82.41:5188/api.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 80,
+    "grade": "A",
+    "stability": 85
+  },
+  {
+    "name": "影视仓单线",
+    "url": "http://影视仓.com/",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 60,
+    "grade": "B",
+    "stability": 71
+  },
+  {
+    "name": "影视仓",
+    "url": "http://影视仓.com/",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 60,
+    "grade": "B",
+    "stability": 71
+  },
+  {
+    "name": "uuccc",
+    "url": "http://xn--5mqx81b535a.com/",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 60,
+    "grade": "B",
     "stability": 71
   },
   {
@@ -651,7 +691,7 @@
   },
   {
     "name": "饭太硬线路",
-    "url": "http://www.饭太硬.art/tv",
+    "url": "http://fty.xxooo.cf/tv",
     "enable": true,
     "last_check": "",
     "status": "unknown",
@@ -661,12 +701,22 @@
   },
   {
     "name": "饭太硬线路",
-    "url": "http://fty.xxooo.cf/tv",
+    "url": "http://www.饭太硬.art/tv",
     "enable": true,
     "last_check": "",
     "status": "unknown",
     "score": 60,
     "grade": "B",
-    "stability": 14
+    "stability": 28
+  },
+  {
+    "name": "福利",
+    "url": "https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 40,
+    "grade": "C",
+    "stability": 28
   }
 ]
