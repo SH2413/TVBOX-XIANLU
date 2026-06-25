@@ -5,7 +5,7 @@
     "enable": true,
     "last_check": "",
     "status": "unknown",
-    "score": 40,
+    "score": 50,
     "grade": "C",
     "stability": 100
   },
@@ -112,16 +112,6 @@
   {
     "name": "x分享者线路",
     "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 40,
-    "grade": "C",
-    "stability": 100
-  },
-  {
-    "name": "月光宝盒",
-    "url": "https://jihulab.com/ygbh1/box//raw/main/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92",
     "enable": true,
     "last_check": "",
     "status": "unknown",
@@ -340,6 +330,16 @@
     "stability": 100
   },
   {
+    "name": "盒子迷2026",
+    "url": "https://盒子迷.top/禁止贩卖",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 60,
+    "grade": "B",
+    "stability": 100
+  },
+  {
     "name": "牛二线路",
     "url": "https://9280.kstore.space/wex.json",
     "enable": true,
@@ -365,8 +365,8 @@
     "enable": true,
     "last_check": "",
     "status": "unknown",
-    "score": 40,
-    "grade": "C",
+    "score": 60,
+    "grade": "B",
     "stability": 100
   },
   {
@@ -395,8 +395,8 @@
     "enable": true,
     "last_check": "",
     "status": "unknown",
-    "score": 40,
-    "grade": "C",
+    "score": 60,
+    "grade": "B",
     "stability": 100
   },
   {
@@ -520,6 +520,16 @@
     "stability": 100
   },
   {
+    "name": "软件",
+    "url": "http://47.96.82.41:5188/api.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 80,
+    "grade": "A",
+    "stability": 100
+  },
+  {
     "name": "v",
     "url": "https://qist.wyfc.qzz.io/jsm.json",
     "enable": true,
@@ -570,13 +580,33 @@
     "stability": 100
   },
   {
-    "name": "盒子迷2026",
-    "url": "https://盒子迷.top/禁止贩卖",
+    "name": "游魂多仓",
+    "url": "https://www.iyouhun.com/tv/dc",
     "enable": true,
     "last_check": "",
     "status": "unknown",
     "score": 60,
     "grade": "B",
+    "stability": 85
+  },
+  {
+    "name": "游魂多仓（备）",
+    "url": "https://www.iyouhun.com/tv/yh",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 60,
+    "grade": "B",
+    "stability": 85
+  },
+  {
+    "name": "环宇轩线",
+    "url": "https://6492.kstore.space/xnf/xnf.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 80,
+    "grade": "A",
     "stability": 85
   },
   {
@@ -598,36 +628,6 @@
     "score": 60,
     "grade": "B",
     "stability": 85
-  },
-  {
-    "name": "软件",
-    "url": "http://47.96.82.41:5188/api.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 80,
-    "grade": "A",
-    "stability": 85
-  },
-  {
-    "name": "游魂多仓",
-    "url": "https://www.iyouhun.com/tv/dc",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 71
-  },
-  {
-    "name": "游魂多仓（备）",
-    "url": "https://www.iyouhun.com/tv/yh",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 71
   },
   {
     "name": "南风线路",
@@ -678,16 +678,6 @@
     "score": 60,
     "grade": "B",
     "stability": 57
-  },
-  {
-    "name": "福利",
-    "url": "https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 40,
-    "grade": "C",
-    "stability": 42
   },
   {
     "name": "饭太硬线路",
