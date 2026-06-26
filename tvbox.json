@@ -82,10 +82,10 @@
       "filterable": 0
     },
     {
-      "key": "4K",
-      "name": "4K",
+      "key": "小苹果线路",
+      "name": "小苹果线路",
       "type": 3,
-      "api": "https://16409.kstore.vip/tv/ngzmods.json",
+      "api": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
