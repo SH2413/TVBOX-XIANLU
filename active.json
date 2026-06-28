@@ -370,6 +370,16 @@
     "stability": 100
   },
   {
+    "name": "小盒子单仓",
+    "url": "http://xhztv.top/xhz",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 60,
+    "grade": "B",
+    "stability": 100
+  },
+  {
     "name": "王二小",
     "url": "https://9280.kstore.vip/newwex.json",
     "enable": true,
@@ -600,16 +610,6 @@
     "stability": 85
   },
   {
-    "name": "小盒子单仓",
-    "url": "http://xhztv.top/xhz",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 85
-  },
-  {
     "name": "新接口",
     "url": "https://www.iyouhun.com/tv/wex",
     "enable": true,
@@ -618,6 +618,56 @@
     "score": 60,
     "grade": "B",
     "stability": 85
+  },
+  {
+    "name": "4K",
+    "url": "https://16409.kstore.vip/tv/ngzmods.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 80,
+    "grade": "A",
+    "stability": 71
+  },
+  {
+    "name": "影视仓单线",
+    "url": "http://影视仓.com/",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 60,
+    "grade": "B",
+    "stability": 71
+  },
+  {
+    "name": "影视仓",
+    "url": "http://影视仓.com/",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 60,
+    "grade": "B",
+    "stability": 71
+  },
+  {
+    "name": "uuccc",
+    "url": "http://xn--5mqx81b535a.com/",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 60,
+    "grade": "B",
+    "stability": 71
+  },
+  {
+    "name": "福利",
+    "url": "https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 40,
+    "grade": "C",
+    "stability": 71
   },
   {
     "name": "南风线路",
@@ -637,16 +687,6 @@
     "status": "unknown",
     "score": 60,
     "grade": "B",
-    "stability": 57
-  },
-  {
-    "name": "福利",
-    "url": "https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 40,
-    "grade": "C",
     "stability": 57
   },
   {
