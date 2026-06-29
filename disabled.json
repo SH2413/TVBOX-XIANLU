@@ -26,7 +26,7 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPConnectionPool(host='52bsj.vip', port=98): Max retries exceeded with url: /wuaihouse (Caused by ConnectTimeoutError(<HTTPConnection(host='52bsj.vip', port=98) at 0x7f5cd587b610>, 'Connection to 52bsj.vip timed out. (connect timeout=8)'))",
+    "grade": "HTTPConnectionPool(host='52bsj.vip', port=98): Max retries exceeded with url: /wuaihouse (Caused by ConnectTimeoutError(<HTTPConnection(host='52bsj.vip', port=98) at 0x7f60be591290>, 'Connection to 52bsj.vip timed out. (connect timeout=8)'))",
     "stability": 0
   },
   {
@@ -36,7 +36,7 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPSConnectionPool(host='weixine.net', port=443): Max retries exceeded with url: /api.json (Caused by ConnectTimeoutError(<HTTPSConnection(host='weixine.net', port=443) at 0x7f5cd58af4d0>, 'Connection to weixine.net timed out. (connect timeout=8)'))",
+    "grade": "HTTPSConnectionPool(host='weixine.net', port=443): Max retries exceeded with url: /api.json (Caused by ConnectTimeoutError(<HTTPSConnection(host='weixine.net', port=443) at 0x7f60be5936d0>, 'Connection to weixine.net timed out. (connect timeout=8)'))",
     "stability": 0
   },
   {
@@ -46,7 +46,7 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPSConnectionPool(host='cf.weixine.net', port=443): Max retries exceeded with url: /api.json (Caused by ConnectTimeoutError(<HTTPSConnection(host='cf.weixine.net', port=443) at 0x7f5cd58b8c90>, 'Connection to cf.weixine.net timed out. (connect timeout=8)'))",
+    "grade": "HTTPSConnectionPool(host='cf.weixine.net', port=443): Max retries exceeded with url: /api.json (Caused by ConnectTimeoutError(<HTTPSConnection(host='cf.weixine.net', port=443) at 0x7f60be59cdd0>, 'Connection to cf.weixine.net timed out. (connect timeout=8)'))",
     "stability": 0
   },
   {
@@ -106,7 +106,7 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPSConnectionPool(host='tv.youdu.fan', port=666): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='tv.youdu.fan', port=666) at 0x7f5cd58cdb10>, 'Connection to tv.youdu.fan timed out. (connect timeout=8)'))",
+    "grade": "HTTPSConnectionPool(host='tv.youdu.fan', port=666): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='tv.youdu.fan', port=666) at 0x7f60be5ac790>, 'Connection to tv.youdu.fan timed out. (connect timeout=8)'))",
     "stability": 0
   },
   {
@@ -246,7 +246,7 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPConnectionPool(host='xhww.fun', port=63): Max retries exceeded with url: /%E5%B0%8F%E7%B1%B3/DEMO.json (Caused by ConnectTimeoutError(<HTTPConnection(host='xhww.fun', port=63) at 0x7f5cd58d9010>, 'Connection to xhww.fun timed out. (connect timeout=8)'))",
+    "grade": "HTTPConnectionPool(host='xhww.fun', port=63): Max retries exceeded with url: /%E5%B0%8F%E7%B1%B3/DEMO.json (Caused by ConnectTimeoutError(<HTTPConnection(host='xhww.fun', port=63) at 0x7f60be5bd190>, 'Connection to xhww.fun timed out. (connect timeout=8)'))",
     "stability": 0
   },
   {
@@ -266,7 +266,7 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPSConnectionPool(host='weixine.net', port=443): Max retries exceeded with url: /ysc.json (Caused by ConnectTimeoutError(<HTTPSConnection(host='weixine.net', port=443) at 0x7f5cd58db010>, 'Connection to weixine.net timed out. (connect timeout=8)'))",
+    "grade": "HTTPSConnectionPool(host='weixine.net', port=443): Max retries exceeded with url: /ysc.json (Caused by ConnectTimeoutError(<HTTPSConnection(host='weixine.net', port=443) at 0x7f60be5bf710>, 'Connection to weixine.net timed out. (connect timeout=8)'))",
     "stability": 0
   },
   {
@@ -306,7 +306,7 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPConnectionPool(host='52bsj.vip', port=98): Max retries exceeded with url: /wuai (Caused by ConnectTimeoutError(<HTTPConnection(host='52bsj.vip', port=98) at 0x7f5cd58d8950>, 'Connection to 52bsj.vip timed out. (connect timeout=8)'))",
+    "grade": "HTTPConnectionPool(host='52bsj.vip', port=98): Max retries exceeded with url: /wuai (Caused by ConnectTimeoutError(<HTTPConnection(host='52bsj.vip', port=98) at 0x7f60be5bdcd0>, 'Connection to 52bsj.vip timed out. (connect timeout=8)'))",
     "stability": 0
   },
   {
@@ -367,7 +367,7 @@
     "status": "unknown",
     "score": 30,
     "grade": "FAIL",
-    "stability": 42
+    "stability": 28
   },
   {
     "name": "源享家线路",
@@ -416,7 +416,7 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPConnectionPool(host='xzam.cn', port=80): Max retries exceeded with url: /tv (Caused by ConnectTimeoutError(<HTTPConnection(host='xzam.cn', port=80) at 0x7f5cd590a910>, 'Connection to xzam.cn timed out. (connect timeout=8)'))",
+    "grade": "HTTPConnectionPool(host='xzam.cn', port=80): Max retries exceeded with url: /tv (Caused by ConnectTimeoutError(<HTTPConnection(host='xzam.cn', port=80) at 0x7f60be5e6910>, 'Connection to xzam.cn timed out. (connect timeout=8)'))",
     "stability": 0
   },
   {
@@ -546,7 +546,7 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPConnectionPool(host='box.ufuzi.com', port=80): Max retries exceeded with url: /tv/qq/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api.json (Caused by ConnectTimeoutError(<HTTPConnection(host='box.ufuzi.com', port=80) at 0x7f5cd5943210>, 'Connection to box.ufuzi.com timed out. (connect timeout=8)'))",
+    "grade": "HTTPConnectionPool(host='box.ufuzi.com', port=80): Max retries exceeded with url: /tv/qq/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api.json (Caused by ConnectTimeoutError(<HTTPConnection(host='box.ufuzi.com', port=80) at 0x7f60be5be650>, 'Connection to box.ufuzi.com timed out. (connect timeout=8)'))",
     "stability": 0
   },
   {
@@ -668,6 +668,16 @@
     "score": 0,
     "grade": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
     "stability": 0
+  },
+  {
+    "name": "福利",
+    "url": "https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 30,
+    "grade": "FAIL",
+    "stability": 57
   },
   {
     "name": "我的借口",

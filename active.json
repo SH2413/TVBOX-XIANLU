@@ -660,16 +660,6 @@
     "stability": 71
   },
   {
-    "name": "福利",
-    "url": "https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 40,
-    "grade": "C",
-    "stability": 71
-  },
-  {
     "name": "南风线路",
     "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Xc.json",
     "enable": true,
