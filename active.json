@@ -627,7 +627,7 @@
     "status": "unknown",
     "score": 80,
     "grade": "A",
-    "stability": 71
+    "stability": 85
   },
   {
     "name": "南风线路",
@@ -680,14 +680,14 @@
     "stability": 57
   },
   {
-    "name": "福利",
-    "url": "https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json",
+    "name": "饭太硬线路",
+    "url": "http://fty.xxooo.cf/tv",
     "enable": true,
     "last_check": "",
     "status": "unknown",
-    "score": 40,
-    "grade": "C",
-    "stability": 57
+    "score": 60,
+    "grade": "B",
+    "stability": 28
   },
   {
     "name": "饭太硬线路",
@@ -698,15 +698,5 @@
     "score": 60,
     "grade": "B",
     "stability": 28
-  },
-  {
-    "name": "饭太硬线路",
-    "url": "http://fty.xxooo.cf/tv",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 14
   }
 ]
