@@ -70,16 +70,6 @@
     "stability": 100
   },
   {
-    "name": "俊佬线路",
-    "url": "http://home.jundie.top:81/top98.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 80,
-    "grade": "A",
-    "stability": 100
-  },
-  {
     "name": "蜂蜜线路",
     "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
     "enable": true,
@@ -107,6 +97,16 @@
     "status": "unknown",
     "score": 60,
     "grade": "B",
+    "stability": 100
+  },
+  {
+    "name": "4K",
+    "url": "https://16409.kstore.vip/tv/ngzmods.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 80,
+    "grade": "A",
     "stability": 100
   },
   {
@@ -620,14 +620,34 @@
     "stability": 100
   },
   {
-    "name": "4K",
-    "url": "https://16409.kstore.vip/tv/ngzmods.json",
+    "name": "影视仓单线",
+    "url": "http://影视仓.com/",
     "enable": true,
     "last_check": "",
     "status": "unknown",
-    "score": 80,
-    "grade": "A",
-    "stability": 85
+    "score": 60,
+    "grade": "B",
+    "stability": 71
+  },
+  {
+    "name": "影视仓",
+    "url": "http://影视仓.com/",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 60,
+    "grade": "B",
+    "stability": 71
+  },
+  {
+    "name": "uuccc",
+    "url": "http://xn--5mqx81b535a.com/",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 60,
+    "grade": "B",
+    "stability": 71
   },
   {
     "name": "南风线路",
@@ -650,48 +670,18 @@
     "stability": 57
   },
   {
-    "name": "影视仓单线",
-    "url": "http://影视仓.com/",
+    "name": "福利",
+    "url": "https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json",
     "enable": true,
     "last_check": "",
     "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 57
-  },
-  {
-    "name": "影视仓",
-    "url": "http://影视仓.com/",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 57
-  },
-  {
-    "name": "uuccc",
-    "url": "http://xn--5mqx81b535a.com/",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 57
+    "score": 40,
+    "grade": "C",
+    "stability": 42
   },
   {
     "name": "饭太硬线路",
     "url": "http://fty.xxooo.cf/tv",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 28
-  },
-  {
-    "name": "饭太硬线路",
-    "url": "http://www.饭太硬.art/tv",
     "enable": true,
     "last_check": "",
     "status": "unknown",

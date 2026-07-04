@@ -64,15 +64,6 @@
       "filterable": 0
     },
     {
-      "key": "俊佬线路",
-      "name": "俊佬线路",
-      "type": 3,
-      "api": "http://home.jundie.top:81/top98.json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "蜂蜜线路",
       "name": "蜂蜜线路",
       "type": 3,
@@ -86,6 +77,15 @@
       "name": "霜辉月明",
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubuserntent.com/lm317379829/PyramidStore/main/py.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "饭太硬江苏和郑州个别地区",
+      "name": "饭太硬江苏和郑州个别地区",
+      "type": 3,
+      "api": "https://raw.atomgit.com/xxxooo/fan/blobs/cef5f441c422cffe4852e0fc8b102f9be6d2bb2b/in.bmp",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
