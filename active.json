@@ -350,16 +350,6 @@
     "stability": 100
   },
   {
-    "name": "盒子迷2026",
-    "url": "https://盒子迷.top/禁止贩卖",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 100
-  },
-  {
     "name": "牛二线路",
     "url": "https://9280.kstore.space/wex.json",
     "enable": true,
@@ -620,36 +610,6 @@
     "stability": 100
   },
   {
-    "name": "影视仓单线",
-    "url": "http://影视仓.com/",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 71
-  },
-  {
-    "name": "影视仓",
-    "url": "http://影视仓.com/",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 71
-  },
-  {
-    "name": "uuccc",
-    "url": "http://xn--5mqx81b535a.com/",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 71
-  },
-  {
     "name": "南风线路",
     "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Xc.json",
     "enable": true,
@@ -668,6 +628,16 @@
     "score": 60,
     "grade": "B",
     "stability": 57
+  },
+  {
+    "name": "饭太硬线路",
+    "url": "http://www.饭太硬.art/tv",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 60,
+    "grade": "B",
+    "stability": 28
   },
   {
     "name": "饭太硬线路",
