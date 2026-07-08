@@ -607,7 +607,7 @@
     "status": "unknown",
     "score": 60,
     "grade": "B",
-    "stability": 71
+    "stability": 85
   },
   {
     "name": "影视仓",
@@ -617,7 +617,7 @@
     "status": "unknown",
     "score": 60,
     "grade": "B",
-    "stability": 71
+    "stability": 85
   },
   {
     "name": "uuccc",
@@ -627,7 +627,7 @@
     "status": "unknown",
     "score": 60,
     "grade": "B",
-    "stability": 71
+    "stability": 85
   },
   {
     "name": "南风线路",
@@ -660,13 +660,23 @@
     "stability": 28
   },
   {
-    "name": "饭太硬线路",
-    "url": "http://www.饭太硬.art/tv",
+    "name": "小胡线路",
+    "url": "http://xzam.cn/tv",
     "enable": true,
     "last_check": "",
     "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 28
+    "score": 50,
+    "grade": "C",
+    "stability": 14
+  },
+  {
+    "name": "真心在线",
+    "url": "https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 40,
+    "grade": "C",
+    "stability": 14
   }
 ]
