@@ -280,16 +280,6 @@
     "stability": 100
   },
   {
-    "name": "宝盒备用",
-    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 100
-  },
-  {
     "name": "环宇轩线",
     "url": "https://6492.kstore.space/xnf/xnf.json",
     "enable": true,
@@ -297,16 +287,6 @@
     "status": "unknown",
     "score": 80,
     "grade": "A",
-    "stability": 100
-  },
-  {
-    "name": "香雅晴线",
-    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
     "stability": 100
   },
   {
@@ -651,23 +631,13 @@
   },
   {
     "name": "饭太硬线路",
-    "url": "http://fty.xxooo.cf/tv",
+    "url": "http://www.饭太硬.art/tv",
     "enable": true,
     "last_check": "",
     "status": "unknown",
     "score": 60,
     "grade": "B",
     "stability": 28
-  },
-  {
-    "name": "小胡线路",
-    "url": "http://xzam.cn/tv",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 50,
-    "grade": "C",
-    "stability": 14
   },
   {
     "name": "真心在线",
@@ -677,6 +647,16 @@
     "status": "unknown",
     "score": 40,
     "grade": "C",
+    "stability": 28
+  },
+  {
+    "name": "饭太硬线路",
+    "url": "http://fty.xxooo.cf/tv",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 60,
+    "grade": "B",
     "stability": 14
   }
 ]

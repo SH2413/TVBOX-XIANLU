@@ -26,7 +26,7 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPConnectionPool(host='52bsj.vip', port=98): Max retries exceeded with url: /wuaihouse (Caused by ConnectTimeoutError(<HTTPConnection(host='52bsj.vip', port=98) at 0x7f2bdcb2e510>, 'Connection to 52bsj.vip timed out. (connect timeout=8)'))",
+    "grade": "HTTPConnectionPool(host='52bsj.vip', port=98): Max retries exceeded with url: /wuaihouse (Caused by ConnectTimeoutError(<HTTPConnection(host='52bsj.vip', port=98) at 0x7fb4e6b66350>, 'Connection to 52bsj.vip timed out. (connect timeout=8)'))",
     "stability": 0
   },
   {
@@ -106,7 +106,7 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPSConnectionPool(host='tv.youdu.fan', port=666): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='tv.youdu.fan', port=666) at 0x7f2bdcb40590>, 'Connection to tv.youdu.fan timed out. (connect timeout=8)'))",
+    "grade": "HTTPSConnectionPool(host='tv.youdu.fan', port=666): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='tv.youdu.fan', port=666) at 0x7fb4e6b7c610>, 'Connection to tv.youdu.fan timed out. (connect timeout=8)'))",
     "stability": 0
   },
   {
@@ -137,7 +137,7 @@
     "status": "unknown",
     "score": 0,
     "grade": "HTTPConnectionPool(host='home.jundie.top', port=81): Max retries exceeded with url: /top98.json (Caused by NewConnectionError(\"HTTPConnection(host='home.jundie.top', port=81): Failed to establish a new connection: [Errno 111] Connection refused\"))",
-    "stability": 28
+    "stability": 14
   },
   {
     "name": "应用多多备用",
@@ -187,7 +187,7 @@
     "status": "unknown",
     "score": 0,
     "grade": "HTTPConnectionPool(host='xn--sss604efuw.ml', port=80): Max retries exceeded with url: /tv (Caused by NameResolutionError(\"HTTPConnection(host='xn--sss604efuw.ml', port=80): Failed to resolve 'xn--sss604efuw.ml' ([Errno -2] Name or service not known)\"))",
-    "stability": 28
+    "stability": 14
   },
   {
     "name": "饭太硬线路",
@@ -197,7 +197,7 @@
     "status": "unknown",
     "score": 30,
     "grade": "FAIL",
-    "stability": 28
+    "stability": 14
   },
   {
     "name": "饭太硬线路",
@@ -206,16 +206,6 @@
     "last_check": "",
     "status": "unknown",
     "score": 30,
-    "grade": "FAIL",
-    "stability": 28
-  },
-  {
-    "name": "饭太硬线路",
-    "url": "http://www.饭太硬.art/tv",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 0,
     "grade": "FAIL",
     "stability": 14
   },
@@ -227,7 +217,7 @@
     "status": "unknown",
     "score": 30,
     "grade": "FAIL",
-    "stability": 14
+    "stability": 28
   },
   {
     "name": "饭太硬线路",
@@ -237,7 +227,7 @@
     "status": "unknown",
     "score": 30,
     "grade": "FAIL",
-    "stability": 14
+    "stability": 28
   },
   {
     "name": "菜妮丝线路",
@@ -266,7 +256,7 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPConnectionPool(host='xhww.fun', port=63): Max retries exceeded with url: /%E5%B0%8F%E7%B1%B3/DEMO.json (Caused by ConnectTimeoutError(<HTTPConnection(host='xhww.fun', port=63) at 0x7f2bdca08e90>, 'Connection to xhww.fun timed out. (connect timeout=8)'))",
+    "grade": "HTTPConnectionPool(host='xhww.fun', port=63): Max retries exceeded with url: /%E5%B0%8F%E7%B1%B3/DEMO.json (Caused by ConnectTimeoutError(<HTTPConnection(host='xhww.fun', port=63) at 0x7fb4e6a44cd0>, 'Connection to xhww.fun timed out. (connect timeout=8)'))",
     "stability": 0
   },
   {
@@ -285,8 +275,8 @@
     "enable": true,
     "last_check": "",
     "status": "unknown",
-    "score": 30,
-    "grade": "FAIL",
+    "score": 0,
+    "grade": "HTTPSConnectionPool(host='weixine.net', port=443): Max retries exceeded with url: /ysc.json (Caused by ConnectTimeoutError(<HTTPSConnection(host='weixine.net', port=443) at 0x7fb4e6a47a10>, 'Connection to weixine.net timed out. (connect timeout=8)'))",
     "stability": 0
   },
   {
@@ -326,7 +316,7 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPConnectionPool(host='52bsj.vip', port=98): Max retries exceeded with url: /wuai (Caused by ConnectTimeoutError(<HTTPConnection(host='52bsj.vip', port=98) at 0x7f2bdca04090>, 'Connection to 52bsj.vip timed out. (connect timeout=8)'))",
+    "grade": "HTTPConnectionPool(host='52bsj.vip', port=98): Max retries exceeded with url: /wuai (Caused by ConnectTimeoutError(<HTTPConnection(host='52bsj.vip', port=98) at 0x7fb4e6a42a10>, 'Connection to 52bsj.vip timed out. (connect timeout=8)'))",
     "stability": 0
   },
   {
@@ -430,12 +420,22 @@
     "stability": 0
   },
   {
+    "name": "小胡线路",
+    "url": "http://xzam.cn/tv",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 0,
+    "grade": "HTTPConnectionPool(host='xzam.cn', port=80): Max retries exceeded with url: /tv (Caused by ConnectTimeoutError(<HTTPConnection(host='xzam.cn', port=80) at 0x7fb4e6a5a210>, 'Connection to xzam.cn timed out. (connect timeout=8)'))",
+    "stability": 14
+  },
+  {
     "name": "心魔在线",
     "url": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json",
     "enable": true,
     "last_check": "",
     "status": "unknown",
-    "score": 30,
+    "score": 10,
     "grade": "FAIL",
     "stability": 0
   },
@@ -445,7 +445,7 @@
     "enable": true,
     "last_check": "",
     "status": "unknown",
-    "score": 0,
+    "score": 10,
     "grade": "FAIL",
     "stability": 0
   },
@@ -470,6 +470,16 @@
     "stability": 0
   },
   {
+    "name": "宝盒备用",
+    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 10,
+    "grade": "FAIL",
+    "stability": 85
+  },
+  {
     "name": "装歌线路",
     "url": "https://欧歌.v.nxog.top/m/",
     "enable": true,
@@ -485,7 +495,7 @@
     "enable": true,
     "last_check": "",
     "status": "unknown",
-    "score": 30,
+    "score": 10,
     "grade": "FAIL",
     "stability": 42
   },
@@ -500,12 +510,22 @@
     "stability": 0
   },
   {
+    "name": "香雅晴线",
+    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 10,
+    "grade": "FAIL",
+    "stability": 85
+  },
+  {
     "name": "南风线路",
     "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json",
     "enable": true,
     "last_check": "",
     "status": "unknown",
-    "score": 30,
+    "score": 10,
     "grade": "FAIL",
     "stability": 42
   },
@@ -517,7 +537,7 @@
     "status": "unknown",
     "score": 20,
     "grade": "FAIL",
-    "stability": 71
+    "stability": 57
   },
   {
     "name": "无意云",
@@ -535,9 +555,9 @@
     "enable": true,
     "last_check": "",
     "status": "unknown",
-    "score": 30,
-    "grade": "FAIL",
-    "stability": 57
+    "score": 0,
+    "grade": "HTTPSConnectionPool(host='xn--i8sz35d1yr.top', port=443): Max retries exceeded with url: /%E7%A6%81%E6%AD%A2%E8%B4%A9%E5%8D%96 (Caused by ConnectTimeoutError(<HTTPSConnection(host='xn--i8sz35d1yr.top', port=443) at 0x7fb4e6a45ad0>, 'Connection to xn--i8sz35d1yr.top timed out. (connect timeout=8)'))",
+    "stability": 42
   },
   {
     "name": "宝盒线路2026",
@@ -566,7 +586,7 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPConnectionPool(host='box.ufuzi.com', port=80): Max retries exceeded with url: /tv/qq/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api.json (Caused by ConnectTimeoutError(<HTTPConnection(host='box.ufuzi.com', port=80) at 0x7f2bdca29950>, 'Connection to box.ufuzi.com timed out. (connect timeout=8)'))",
+    "grade": "HTTPConnectionPool(host='box.ufuzi.com', port=80): Max retries exceeded with url: /tv/qq/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api.json (Caused by ConnectTimeoutError(<HTTPConnection(host='box.ufuzi.com', port=80) at 0x7fb4e6a47c10>, 'Connection to box.ufuzi.com timed out. (connect timeout=8)'))",
     "stability": 0
   },
   {
@@ -697,7 +717,7 @@
     "status": "unknown",
     "score": 30,
     "grade": "FAIL",
-    "stability": 28
+    "stability": 14
   },
   {
     "name": "我的借口",
