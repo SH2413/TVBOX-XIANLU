@@ -470,16 +470,6 @@
     "stability": 100
   },
   {
-    "name": "看戏网",
-    "url": "https://www.gunys.com/",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 100
-  },
-  {
     "name": "荐片",
     "url": "https://tv.203511.xyz/0821.json",
     "enable": true,
@@ -620,6 +610,16 @@
     "stability": 85
   },
   {
+    "name": "香雅晴线",
+    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 60,
+    "grade": "B",
+    "stability": 71
+  },
+  {
     "name": "南风线路",
     "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Xc.json",
     "enable": true,
@@ -647,7 +647,7 @@
     "status": "unknown",
     "score": 40,
     "grade": "C",
-    "stability": 42
+    "stability": 57
   },
   {
     "name": "饭太硬线路",
