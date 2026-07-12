@@ -610,6 +610,26 @@
     "stability": 85
   },
   {
+    "name": "看戏网",
+    "url": "https://www.gunys.com/",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 60,
+    "grade": "B",
+    "stability": 85
+  },
+  {
+    "name": "真心在线",
+    "url": "https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 40,
+    "grade": "C",
+    "stability": 71
+  },
+  {
     "name": "香雅晴线",
     "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
     "enable": true,
@@ -640,28 +660,8 @@
     "stability": 57
   },
   {
-    "name": "真心在线",
-    "url": "https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 40,
-    "grade": "C",
-    "stability": 57
-  },
-  {
     "name": "饭太硬线路",
     "url": "http://fty.xxooo.cf/tv",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 28
-  },
-  {
-    "name": "饭太硬线路",
-    "url": "http://www.饭太硬.art/tv",
     "enable": true,
     "last_check": "",
     "status": "unknown",
