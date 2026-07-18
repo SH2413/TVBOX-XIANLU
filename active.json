@@ -637,7 +637,17 @@
     "status": "unknown",
     "score": 60,
     "grade": "B",
-    "stability": 71
+    "stability": 85
+  },
+  {
+    "name": "俊佬线路",
+    "url": "http://home.jundie.top:81/top98.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 80,
+    "grade": "A",
+    "stability": 57
   },
   {
     "name": "南风线路",
@@ -658,16 +668,6 @@
     "score": 60,
     "grade": "B",
     "stability": 57
-  },
-  {
-    "name": "俊佬线路",
-    "url": "http://home.jundie.top:81/top98.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 80,
-    "grade": "A",
-    "stability": 42
   },
   {
     "name": "饭太硬线路",
