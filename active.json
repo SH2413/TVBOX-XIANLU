@@ -100,16 +100,6 @@
     "stability": 100
   },
   {
-    "name": "4K",
-    "url": "https://16409.kstore.vip/tv/ngzmods.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 80,
-    "grade": "A",
-    "stability": 100
-  },
-  {
     "name": "小苹果线路",
     "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json",
     "enable": true,
@@ -310,16 +300,6 @@
     "stability": 100
   },
   {
-    "name": "环宇轩线",
-    "url": "https://6492.kstore.space/xnf/xnf.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 80,
-    "grade": "A",
-    "stability": 100
-  },
-  {
     "name": "香雅晴线",
     "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
     "enable": true,
@@ -490,16 +470,6 @@
     "stability": 100
   },
   {
-    "name": "牛二",
-    "url": "https://9280.kstore.space/newwex.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 80,
-    "grade": "A",
-    "stability": 100
-  },
-  {
     "name": "uuccc",
     "url": "http://xn--5mqx81b535a.com/",
     "enable": true,
@@ -647,7 +617,7 @@
     "status": "unknown",
     "score": 80,
     "grade": "A",
-    "stability": 57
+    "stability": 71
   },
   {
     "name": "南风线路",
