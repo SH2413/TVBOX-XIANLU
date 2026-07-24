@@ -620,6 +620,16 @@
     "stability": 85
   },
   {
+    "name": "讴歌",
+    "url": "http://tv.nxog.top/",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 60,
+    "grade": "B",
+    "stability": 57
+  },
+  {
     "name": "南风线路",
     "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Xc.json",
     "enable": true,
@@ -640,14 +650,34 @@
     "stability": 57
   },
   {
-    "name": "讴歌",
-    "url": "http://tv.nxog.top/",
+    "name": "影视仓单线",
+    "url": "http://影视仓.com/",
     "enable": true,
     "last_check": "",
     "status": "unknown",
     "score": 60,
     "grade": "B",
-    "stability": 42
+    "stability": 57
+  },
+  {
+    "name": "影视仓",
+    "url": "http://影视仓.com/",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 60,
+    "grade": "B",
+    "stability": 57
+  },
+  {
+    "name": "uuccc",
+    "url": "http://xn--5mqx81b535a.com/",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 60,
+    "grade": "B",
+    "stability": 57
   },
   {
     "name": "饭太硬线路",
@@ -657,16 +687,6 @@
     "status": "unknown",
     "score": 60,
     "grade": "B",
-    "stability": 28
-  },
-  {
-    "name": "福利",
-    "url": "https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 40,
-    "grade": "C",
     "stability": 14
   }
 ]
