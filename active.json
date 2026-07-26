@@ -110,6 +110,16 @@
     "stability": 100
   },
   {
+    "name": "4K",
+    "url": "https://16409.kstore.vip/tv/ngzmods.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 80,
+    "grade": "A",
+    "stability": 100
+  },
+  {
     "name": "小苹果线路",
     "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json",
     "enable": true,
@@ -300,6 +310,16 @@
     "stability": 100
   },
   {
+    "name": "环宇轩线",
+    "url": "https://6492.kstore.space/xnf/xnf.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 80,
+    "grade": "A",
+    "stability": 100
+  },
+  {
     "name": "香雅晴线",
     "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
     "enable": true,
@@ -460,6 +480,16 @@
     "stability": 100
   },
   {
+    "name": "牛二",
+    "url": "https://9280.kstore.space/newwex.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 80,
+    "grade": "A",
+    "stability": 100
+  },
+  {
     "name": "fmys",
     "url": "http://fmys.top/fmys.json",
     "enable": true,
@@ -550,16 +580,6 @@
     "stability": 100
   },
   {
-    "name": "我的",
-    "url": "https://codeberg.org/wei88976862/tvbox001/raw/branch/main/fty.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 100
-  },
-  {
     "name": "TVBox",
     "url": "https://pastebin.com/raw/sbPpDm9G",
     "enable": true,
@@ -590,36 +610,6 @@
     "stability": 100
   },
   {
-    "name": "4K",
-    "url": "https://16409.kstore.vip/tv/ngzmods.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 80,
-    "grade": "A",
-    "stability": 85
-  },
-  {
-    "name": "环宇轩线",
-    "url": "https://6492.kstore.space/xnf/xnf.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 80,
-    "grade": "A",
-    "stability": 85
-  },
-  {
-    "name": "牛二",
-    "url": "https://9280.kstore.space/newwex.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 80,
-    "grade": "A",
-    "stability": 85
-  },
-  {
     "name": "讴歌",
     "url": "http://tv.nxog.top/",
     "enable": true,
@@ -627,7 +617,7 @@
     "status": "unknown",
     "score": 60,
     "grade": "B",
-    "stability": 71
+    "stability": 85
   },
   {
     "name": "南风线路",
@@ -678,6 +668,16 @@
     "score": 60,
     "grade": "B",
     "stability": 57
+  },
+  {
+    "name": "饭太硬线路",
+    "url": "http://www.饭太硬.art/tv",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 60,
+    "grade": "B",
+    "stability": 28
   },
   {
     "name": "饭太硬线路",
