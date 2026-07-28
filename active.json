@@ -110,26 +110,6 @@
     "stability": 100
   },
   {
-    "name": "饭太硬江苏和郑州个别地区",
-    "url": "https://raw.atomgit.com/xxxooo/fan/blobs/cef5f441c422cffe4852e0fc8b102f9be6d2bb2b/in.bmp",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 100
-  },
-  {
-    "name": "4K",
-    "url": "https://16409.kstore.vip/tv/ngzmods.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 80,
-    "grade": "A",
-    "stability": 100
-  },
-  {
     "name": "小苹果线路",
     "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json",
     "enable": true,
@@ -620,16 +600,6 @@
     "stability": 100
   },
   {
-    "name": "我的",
-    "url": "https://codeberg.org/wei88976862/tvbox001/raw/branch/main/fty.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 85
-  },
-  {
     "name": "影视仓单线",
     "url": "http://影视仓.com/",
     "enable": true,
@@ -637,7 +607,7 @@
     "status": "unknown",
     "score": 60,
     "grade": "B",
-    "stability": 71
+    "stability": 85
   },
   {
     "name": "影视仓",
@@ -647,7 +617,7 @@
     "status": "unknown",
     "score": 60,
     "grade": "B",
-    "stability": 71
+    "stability": 85
   },
   {
     "name": "uuccc",
@@ -657,7 +627,17 @@
     "status": "unknown",
     "score": 60,
     "grade": "B",
-    "stability": 71
+    "stability": 85
+  },
+  {
+    "name": "我的",
+    "url": "https://codeberg.org/wei88976862/tvbox001/raw/branch/main/fty.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 60,
+    "grade": "B",
+    "stability": 85
   },
   {
     "name": "南风线路",
@@ -680,6 +660,16 @@
     "stability": 57
   },
   {
+    "name": "福利",
+    "url": "https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 40,
+    "grade": "C",
+    "stability": 42
+  },
+  {
     "name": "饭太硬线路",
     "url": "http://fty.xxooo.cf/tv",
     "enable": true,
@@ -697,16 +687,6 @@
     "status": "unknown",
     "score": 60,
     "grade": "B",
-    "stability": 28
-  },
-  {
-    "name": "福利",
-    "url": "https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 40,
-    "grade": "C",
     "stability": 28
   }
 ]
