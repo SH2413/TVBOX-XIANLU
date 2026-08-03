@@ -688,15 +688,5 @@
     "score": 60,
     "grade": "B",
     "stability": 28
-  },
-  {
-    "name": "宝盒接口",
-    "url": "http://宝盒接口.top",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 14
   }
 ]
