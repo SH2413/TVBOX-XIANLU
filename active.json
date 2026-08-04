@@ -640,6 +640,16 @@
     "stability": 85
   },
   {
+    "name": "4K",
+    "url": "https://16409.kstore.vip/tv/ngzmods.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 80,
+    "grade": "A",
+    "stability": 57
+  },
+  {
     "name": "南风线路",
     "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Xc.json",
     "enable": true,
@@ -660,13 +670,13 @@
     "stability": 57
   },
   {
-    "name": "4K",
-    "url": "https://16409.kstore.vip/tv/ngzmods.json",
+    "name": "福利",
+    "url": "https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json",
     "enable": true,
     "last_check": "",
     "status": "unknown",
-    "score": 80,
-    "grade": "A",
+    "score": 40,
+    "grade": "C",
     "stability": 42
   },
   {
@@ -682,6 +692,16 @@
   {
     "name": "饭太硬线路",
     "url": "http://www.饭太硬.art/tv",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 60,
+    "grade": "B",
+    "stability": 28
+  },
+  {
+    "name": "宝盒接口",
+    "url": "http://宝盒接口.top",
     "enable": true,
     "last_check": "",
     "status": "unknown",
