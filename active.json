@@ -647,7 +647,7 @@
     "status": "unknown",
     "score": 80,
     "grade": "A",
-    "stability": 57
+    "stability": 71
   },
   {
     "name": "南风线路",
@@ -670,13 +670,13 @@
     "stability": 57
   },
   {
-    "name": "福利",
-    "url": "https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json",
+    "name": "宝盒接口",
+    "url": "http://宝盒接口.top",
     "enable": true,
     "last_check": "",
     "status": "unknown",
-    "score": 40,
-    "grade": "C",
+    "score": 60,
+    "grade": "B",
     "stability": 42
   },
   {
@@ -692,16 +692,6 @@
   {
     "name": "饭太硬线路",
     "url": "http://www.饭太硬.art/tv",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 28
-  },
-  {
-    "name": "宝盒接口",
-    "url": "http://宝盒接口.top",
     "enable": true,
     "last_check": "",
     "status": "unknown",
