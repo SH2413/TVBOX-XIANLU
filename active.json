@@ -230,16 +230,6 @@
     "stability": 100
   },
   {
-    "name": "Clun在线",
-    "url": "https://clun.top/box.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 80,
-    "grade": "A",
-    "stability": 100
-  },
-  {
     "name": "黄金在线",
     "url": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjys.free.json",
     "enable": true,
@@ -610,16 +600,6 @@
     "stability": 100
   },
   {
-    "name": "Clun在线",
-    "url": "https://clun.top/box.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 80,
-    "grade": "A",
-    "stability": 100
-  },
-  {
     "name": "18+",
     "url": "https://raw.githubusercontent.com/xzqcsa/ysc/837da76da2309050fa377e0e366896ea6a64e32f/xzqzy/18.json",
     "enable": true,
@@ -630,6 +610,16 @@
     "stability": 100
   },
   {
+    "name": "4K",
+    "url": "https://16409.kstore.vip/tv/ngzmods.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 80,
+    "grade": "A",
+    "stability": 85
+  },
+  {
     "name": "看戏网",
     "url": "https://www.gunys.com/",
     "enable": true,
@@ -638,16 +628,6 @@
     "score": 60,
     "grade": "B",
     "stability": 85
-  },
-  {
-    "name": "4K",
-    "url": "https://16409.kstore.vip/tv/ngzmods.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 80,
-    "grade": "A",
-    "stability": 71
   },
   {
     "name": "南风线路",
@@ -677,6 +657,16 @@
     "status": "unknown",
     "score": 60,
     "grade": "B",
+    "stability": 57
+  },
+  {
+    "name": "福利",
+    "url": "https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 40,
+    "grade": "C",
     "stability": 42
   },
   {
