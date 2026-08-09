@@ -590,16 +590,6 @@
     "stability": 100
   },
   {
-    "name": "我的",
-    "url": "https://codeberg.org/wei88976862/tvbox001/raw/branch/main/fty.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 100
-  },
-  {
     "name": "TVBox",
     "url": "https://pastebin.com/raw/sbPpDm9G",
     "enable": true,
@@ -637,7 +627,7 @@
     "status": "unknown",
     "score": 80,
     "grade": "A",
-    "stability": 71
+    "stability": 85
   },
   {
     "name": "Clun在线",
