@@ -330,16 +330,6 @@
     "stability": 100
   },
   {
-    "name": "D佬线路",
-    "url": "http://rihou.cc:555/nzk/nzk0722.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 50,
-    "grade": "C",
-    "stability": 100
-  },
-  {
     "name": "菜妮丝",
     "url": "https://tv.菜妮丝.top",
     "enable": true,
@@ -575,8 +565,8 @@
     "enable": true,
     "last_check": "",
     "status": "unknown",
-    "score": 60,
-    "grade": "B",
+    "score": 80,
+    "grade": "A",
     "stability": 100
   },
   {
@@ -687,6 +677,16 @@
     "status": "unknown",
     "score": 60,
     "grade": "B",
+    "stability": 28
+  },
+  {
+    "name": "福利",
+    "url": "https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 40,
+    "grade": "C",
     "stability": 28
   }
 ]
