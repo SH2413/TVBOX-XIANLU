@@ -435,8 +435,8 @@
     "enable": true,
     "last_check": "",
     "status": "unknown",
-    "score": 60,
-    "grade": "B",
+    "score": 80,
+    "grade": "A",
     "stability": 100
   },
   {
@@ -662,16 +662,6 @@
   {
     "name": "饭太硬线路",
     "url": "http://fty.xxooo.cf/tv",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 28
-  },
-  {
-    "name": "饭太硬线路",
-    "url": "http://www.饭太硬.art/tv",
     "enable": true,
     "last_check": "",
     "status": "unknown",
