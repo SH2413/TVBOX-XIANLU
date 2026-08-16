@@ -300,16 +300,6 @@
     "stability": 100
   },
   {
-    "name": "环宇轩线",
-    "url": "https://6492.kstore.space/xnf/xnf.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 80,
-    "grade": "A",
-    "stability": 100
-  },
-  {
     "name": "香雅晴线",
     "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
     "enable": true,
@@ -410,16 +400,6 @@
     "stability": 100
   },
   {
-    "name": "二月红接口",
-    "url": "https://700sjro44343.vicp.fun/eggp/0211/tv.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 80,
-    "grade": "A",
-    "stability": 100
-  },
-  {
     "name": "王二小接口",
     "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
     "enable": true,
@@ -500,16 +480,6 @@
     "stability": 100
   },
   {
-    "name": "看戏网",
-    "url": "https://www.gunys.com/",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 100
-  },
-  {
     "name": "荐片",
     "url": "https://tv.203511.xyz/0821.json",
     "enable": true,
@@ -522,16 +492,6 @@
   {
     "name": "my interface",
     "url": "http://124.223.214.31:8/api.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 80,
-    "grade": "A",
-    "stability": 100
-  },
-  {
-    "name": "1",
-    "url": "https://700sjro44343.vicp.fun/vip/vip/tv.json",
     "enable": true,
     "last_check": "",
     "status": "unknown",
@@ -570,6 +530,16 @@
     "stability": 100
   },
   {
+    "name": "我的",
+    "url": "https://codeberg.org/wei88976862/tvbox001/raw/branch/main/fty.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 60,
+    "grade": "B",
+    "stability": 100
+  },
+  {
     "name": "TVBox",
     "url": "https://pastebin.com/raw/sbPpDm9G",
     "enable": true,
@@ -598,16 +568,6 @@
     "score": 60,
     "grade": "B",
     "stability": 100
-  },
-  {
-    "name": "我的",
-    "url": "https://codeberg.org/wei88976862/tvbox001/raw/branch/main/fty.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 85
   },
   {
     "name": "南风线路",
