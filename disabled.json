@@ -16,7 +16,7 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPConnectionPool(host='jk.itvbox.cc', port=66): Max retries exceeded with url: /%E5%8F%AF%E8%A7%86TV/%E4%BA%91%E6%98%9F%E6%97%A5%E8%AE%B0/%E4%BB%93%E5%BA%93/api.json (Caused by ConnectTimeoutError(<HTTPConnection(host='jk.itvbox.cc', port=66) at 0x7fe23b241090>, 'Connection to jk.itvbox.cc timed out. (connect timeout=8)'))",
+    "grade": "HTTPConnectionPool(host='jk.itvbox.cc', port=66): Max retries exceeded with url: /%E5%8F%AF%E8%A7%86TV/%E4%BA%91%E6%98%9F%E6%97%A5%E8%AE%B0/%E4%BB%93%E5%BA%93/api.json (Caused by ConnectTimeoutError(<HTTPConnection(host='jk.itvbox.cc', port=66) at 0x7fd33e714410>, 'Connection to jk.itvbox.cc timed out. (connect timeout=8)'))",
     "stability": 0
   },
   {
@@ -106,7 +106,7 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPSConnectionPool(host='tv.youdu.fan', port=666): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='tv.youdu.fan', port=666) at 0x7fe23b25ccd0>, 'Connection to tv.youdu.fan timed out. (connect timeout=8)'))",
+    "grade": "HTTPSConnectionPool(host='tv.youdu.fan', port=666): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='tv.youdu.fan', port=666) at 0x7fd33e744510>, 'Connection to tv.youdu.fan timed out. (connect timeout=8)'))",
     "stability": 0
   },
   {
@@ -256,7 +256,7 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPConnectionPool(host='xhww.fun', port=63): Max retries exceeded with url: /%E5%B0%8F%E7%B1%B3/DEMO.json (Caused by ConnectTimeoutError(<HTTPConnection(host='xhww.fun', port=63) at 0x7fe23b141390>, 'Connection to xhww.fun timed out. (connect timeout=8)'))",
+    "grade": "HTTPConnectionPool(host='xhww.fun', port=63): Max retries exceeded with url: /%E5%B0%8F%E7%B1%B3/DEMO.json (Caused by ConnectTimeoutError(<HTTPConnection(host='xhww.fun', port=63) at 0x7fd33e635890>, 'Connection to xhww.fun timed out. (connect timeout=8)'))",
     "stability": 0
   },
   {
@@ -296,7 +296,7 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPConnectionPool(host='8.210.232.168', port=80): Max retries exceeded with url: /xc.json (Caused by ConnectTimeoutError(<HTTPConnection(host='8.210.232.168', port=80) at 0x7fe23b141e10>, 'Connection to 8.210.232.168 timed out. (connect timeout=8)'))",
+    "grade": "HTTPConnectionPool(host='8.210.232.168', port=80): Max retries exceeded with url: /xc.json (Caused by NewConnectionError(\"HTTPConnection(host='8.210.232.168', port=80): Failed to establish a new connection: [Errno 111] Connection refused\"))",
     "stability": 0
   },
   {
@@ -426,7 +426,7 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPConnectionPool(host='xzam.cn', port=80): Max retries exceeded with url: /tv (Caused by ConnectTimeoutError(<HTTPConnection(host='xzam.cn', port=80) at 0x7fe23b14b7d0>, 'Connection to xzam.cn timed out. (connect timeout=8)'))",
+    "grade": "HTTPConnectionPool(host='xzam.cn', port=80): Max retries exceeded with url: /tv (Caused by ConnectTimeoutError(<HTTPConnection(host='xzam.cn', port=80) at 0x7fd33e641cd0>, 'Connection to xzam.cn timed out. (connect timeout=8)'))",
     "stability": 0
   },
   {
@@ -470,16 +470,6 @@
     "stability": 0
   },
   {
-    "name": "影视仓单线",
-    "url": "http://影视仓.com/",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 0,
-    "grade": "HTTPSConnectionPool(host='%e5%bd%b1%e8%a7%86%e4%bb%93.com', port=443): Max retries exceeded with url: /web.html (Caused by NameResolutionError(\"HTTPSConnection(host='%e5%bd%b1%e8%a7%86%e4%bb%93.com', port=443): Failed to resolve '%e5%bd%b1%e8%a7%86%e4%bb%93.com' ([Errno -2] Name or service not known)\"))",
-    "stability": 71
-  },
-  {
     "name": "装歌线路",
     "url": "https://欧歌.v.nxog.top/m/",
     "enable": true,
@@ -517,7 +507,7 @@
     "status": "unknown",
     "score": 10,
     "grade": "FAIL",
-    "stability": 85
+    "stability": 71
   },
   {
     "name": "南风线路",
@@ -536,8 +526,8 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPConnectionPool(host='rihou.cc', port=555): Max retries exceeded with url: /nzk/nzk0722.json (Caused by ConnectTimeoutError(<HTTPConnection(host='rihou.cc', port=555) at 0x7fe23b140150>, 'Connection to rihou.cc timed out. (connect timeout=8)'))",
-    "stability": 14
+    "grade": "HTTPConnectionPool(host='rihou.cc', port=555): Max retries exceeded with url: /nzk/nzk0722.json (Caused by ConnectTimeoutError(<HTTPConnection(host='rihou.cc', port=555) at 0x7fd33e635bd0>, 'Connection to rihou.cc timed out. (connect timeout=8)'))",
+    "stability": 0
   },
   {
     "name": "七星影仓",
@@ -596,7 +586,7 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPConnectionPool(host='box.ufuzi.com', port=80): Max retries exceeded with url: /tv/qq/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api.json (Caused by ConnectTimeoutError(<HTTPConnection(host='box.ufuzi.com', port=80) at 0x7fe23b216790>, 'Connection to box.ufuzi.com timed out. (connect timeout=8)'))",
+    "grade": "HTTPConnectionPool(host='box.ufuzi.com', port=80): Max retries exceeded with url: /tv/qq/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api.json (Caused by ConnectTimeoutError(<HTTPConnection(host='box.ufuzi.com', port=80) at 0x7fd33e70e290>, 'Connection to box.ufuzi.com timed out. (connect timeout=8)'))",
     "stability": 0
   },
   {
@@ -620,16 +610,6 @@
     "stability": 0
   },
   {
-    "name": "影视仓",
-    "url": "http://影视仓.com/",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 0,
-    "grade": "HTTPSConnectionPool(host='%e5%bd%b1%e8%a7%86%e4%bb%93.com', port=443): Max retries exceeded with url: /web.html (Caused by NameResolutionError(\"HTTPSConnection(host='%e5%bd%b1%e8%a7%86%e4%bb%93.com', port=443): Failed to resolve '%e5%bd%b1%e8%a7%86%e4%bb%93.com' ([Errno -2] Name or service not known)\"))",
-    "stability": 71
-  },
-  {
     "name": "欧歌接口",
     "url": "https://xn--sdds-rp5imh.v.nxog.top/apitv.php?id=3",
     "enable": true,
@@ -647,7 +627,7 @@
     "status": "unknown",
     "score": 30,
     "grade": "FAIL",
-    "stability": 85
+    "stability": 71
   },
   {
     "name": "肥猫线路.com",
@@ -668,16 +648,6 @@
     "score": 30,
     "grade": "FAIL",
     "stability": 0
-  },
-  {
-    "name": "uuccc",
-    "url": "http://xn--5mqx81b535a.com/",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 0,
-    "grade": "HTTPSConnectionPool(host='%e5%bd%b1%e8%a7%86%e4%bb%93.com', port=443): Max retries exceeded with url: /web.html (Caused by NameResolutionError(\"HTTPSConnection(host='%e5%bd%b1%e8%a7%86%e4%bb%93.com', port=443): Failed to resolve '%e5%bd%b1%e8%a7%86%e4%bb%93.com' ([Errno -2] Name or service not known)\"))",
-    "stability": 71
   },
   {
     "name": "苍蓝",
@@ -710,16 +680,6 @@
     "stability": 0
   },
   {
-    "name": "看戏网",
-    "url": "https://www.gunys.com/",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 30,
-    "grade": "FAIL",
-    "stability": 85
-  },
-  {
     "name": "青苹果影视",
     "url": "https://www.yzyunhai.com",
     "enable": true,
@@ -747,7 +707,7 @@
     "status": "unknown",
     "score": 30,
     "grade": "FAIL",
-    "stability": 85
+    "stability": 71
   },
   {
     "name": "cs",
