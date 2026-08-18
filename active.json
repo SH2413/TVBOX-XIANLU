@@ -380,38 +380,8 @@
     "stability": 100
   },
   {
-    "name": "王二小",
-    "url": "https://9280.kstore.vip/newwex.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 80,
-    "grade": "A",
-    "stability": 100
-  },
-  {
     "name": "少儿频道",
     "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 100
-  },
-  {
-    "name": "王二小接口",
-    "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 100
-  },
-  {
-    "name": "王二小放牛娃",
-    "url": "http://tv.999888987.xyz",
     "enable": true,
     "last_check": "",
     "status": "unknown",
@@ -447,16 +417,6 @@
     "status": "unknown",
     "score": 60,
     "grade": "B",
-    "stability": 100
-  },
-  {
-    "name": "牛二",
-    "url": "https://9280.kstore.space/newwex.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 80,
-    "grade": "A",
     "stability": 100
   },
   {
