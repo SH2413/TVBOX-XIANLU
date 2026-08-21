@@ -320,16 +320,6 @@
     "stability": 100
   },
   {
-    "name": "王二小（网盘4K）",
-    "url": "http://tvbox.王二小放牛娃.top",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 100
-  },
-  {
     "name": "牛二线路",
     "url": "https://9280.kstore.space/wex.json",
     "enable": true,
@@ -337,16 +327,6 @@
     "status": "unknown",
     "score": 80,
     "grade": "A",
-    "stability": 100
-  },
-  {
-    "name": "王二小备用",
-    "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
     "stability": 100
   },
   {
@@ -570,16 +550,6 @@
     "stability": 85
   },
   {
-    "name": "看戏网",
-    "url": "https://www.gunys.com/",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 85
-  },
-  {
     "name": "影视仓单线",
     "url": "http://影视仓.com/",
     "enable": true,
@@ -657,6 +627,6 @@
     "status": "unknown",
     "score": 50,
     "grade": "C",
-    "stability": 14
+    "stability": 28
   }
 ]
