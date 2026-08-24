@@ -610,6 +610,16 @@
     "stability": 85
   },
   {
+    "name": "D佬线路",
+    "url": "http://rihou.cc:555/nzk/nzk0722.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 50,
+    "grade": "C",
+    "stability": 71
+  },
+  {
     "name": "南风线路",
     "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Xc.json",
     "enable": true,
@@ -627,16 +637,6 @@
     "status": "unknown",
     "score": 60,
     "grade": "B",
-    "stability": 57
-  },
-  {
-    "name": "D佬线路",
-    "url": "http://rihou.cc:555/nzk/nzk0722.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 50,
-    "grade": "C",
     "stability": 57
   },
   {
