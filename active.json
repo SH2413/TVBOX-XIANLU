@@ -320,6 +320,16 @@
     "stability": 100
   },
   {
+    "name": "D佬线路",
+    "url": "http://rihou.cc:555/nzk/nzk0722.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 50,
+    "grade": "C",
+    "stability": 100
+  },
+  {
     "name": "菜妮丝",
     "url": "https://tv.菜妮丝.top",
     "enable": true,
@@ -578,16 +588,6 @@
     "score": 60,
     "grade": "B",
     "stability": 100
-  },
-  {
-    "name": "D佬线路",
-    "url": "http://rihou.cc:555/nzk/nzk0722.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 50,
-    "grade": "C",
-    "stability": 85
   },
   {
     "name": "王二小（网盘4K）",
