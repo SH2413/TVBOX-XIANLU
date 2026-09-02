@@ -280,16 +280,6 @@
     "stability": 100
   },
   {
-    "name": "影视仓单线",
-    "url": "http://影视仓.com/",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 100
-  },
-  {
     "name": "宝盒备用",
     "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json",
     "enable": true,
@@ -390,16 +380,6 @@
     "stability": 100
   },
   {
-    "name": "影视仓",
-    "url": "http://影视仓.com/",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 100
-  },
-  {
     "name": "王二小",
     "url": "https://9280.kstore.vip/newwex.json",
     "enable": true,
@@ -477,16 +457,6 @@
     "status": "unknown",
     "score": 80,
     "grade": "A",
-    "stability": 100
-  },
-  {
-    "name": "uuccc",
-    "url": "http://xn--5mqx81b535a.com/",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
     "stability": 100
   },
   {
@@ -610,8 +580,8 @@
     "stability": 85
   },
   {
-    "name": "看戏网",
-    "url": "https://www.gunys.com/",
+    "name": "肥猫线路.com",
+    "url": "http://肥猫.com/",
     "enable": true,
     "last_check": "",
     "status": "unknown",
@@ -620,14 +590,14 @@
     "stability": 85
   },
   {
-    "name": "肥猫线路.com",
-    "url": "http://肥猫.com/",
+    "name": "看戏网",
+    "url": "https://www.gunys.com/",
     "enable": true,
     "last_check": "",
     "status": "unknown",
     "score": 60,
     "grade": "B",
-    "stability": 71
+    "stability": 85
   },
   {
     "name": "南风线路",
