@@ -400,6 +400,16 @@
     "stability": 100
   },
   {
+    "name": "肥猫线路.com",
+    "url": "http://肥猫.com/",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 60,
+    "grade": "B",
+    "stability": 100
+  },
+  {
     "name": "王二小接口",
     "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
     "enable": true,
@@ -472,6 +482,16 @@
   {
     "name": "新接口",
     "url": "https://www.iyouhun.com/tv/wex",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 60,
+    "grade": "B",
+    "stability": 100
+  },
+  {
+    "name": "看戏网",
+    "url": "https://www.gunys.com/",
     "enable": true,
     "last_check": "",
     "status": "unknown",
@@ -580,26 +600,6 @@
     "stability": 85
   },
   {
-    "name": "肥猫线路.com",
-    "url": "http://肥猫.com/",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 85
-  },
-  {
-    "name": "看戏网",
-    "url": "https://www.gunys.com/",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 85
-  },
-  {
     "name": "南风线路",
     "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Xc.json",
     "enable": true,
@@ -620,6 +620,16 @@
     "stability": 57
   },
   {
+    "name": "福利",
+    "url": "https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 40,
+    "grade": "C",
+    "stability": 42
+  },
+  {
     "name": "饭太硬线路",
     "url": "http://fty.xxooo.cf/tv",
     "enable": true,
@@ -637,16 +647,6 @@
     "status": "unknown",
     "score": 60,
     "grade": "B",
-    "stability": 28
-  },
-  {
-    "name": "福利",
-    "url": "https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 40,
-    "grade": "C",
     "stability": 28
   }
 ]
