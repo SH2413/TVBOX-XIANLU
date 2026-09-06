@@ -638,5 +638,15 @@
     "score": 60,
     "grade": "B",
     "stability": 28
+  },
+  {
+    "name": "多多影音",
+    "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 60,
+    "grade": "B",
+    "stability": 14
   }
 ]
