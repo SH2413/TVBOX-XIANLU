@@ -590,8 +590,8 @@
     "stability": 100
   },
   {
-    "name": "TVBox",
-    "url": "https://pastebin.com/raw/sbPpDm9G",
+    "name": "多多影音",
+    "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
     "enable": true,
     "last_check": "",
     "status": "unknown",
@@ -600,14 +600,14 @@
     "stability": 85
   },
   {
-    "name": "多多影音",
-    "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
+    "name": "TVBox",
+    "url": "https://pastebin.com/raw/sbPpDm9G",
     "enable": true,
     "last_check": "",
     "status": "unknown",
     "score": 60,
     "grade": "B",
-    "stability": 71
+    "stability": 85
   },
   {
     "name": "南风线路",
