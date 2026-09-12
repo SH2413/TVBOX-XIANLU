@@ -150,16 +150,6 @@
     "stability": 100
   },
   {
-    "name": "佰欣园线路",
-    "url": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.t",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 100
-  },
-  {
     "name": "zzz1线路",
     "url": "https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json",
     "enable": true,
@@ -317,16 +307,6 @@
     "status": "unknown",
     "score": 50,
     "grade": "C",
-    "stability": 100
-  },
-  {
-    "name": "菜妮丝",
-    "url": "https://tv.菜妮丝.top",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
     "stability": 100
   },
   {
@@ -500,16 +480,6 @@
     "stability": 100
   },
   {
-    "name": "看戏网",
-    "url": "https://www.gunys.com/",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 100
-  },
-  {
     "name": "荐片",
     "url": "https://tv.203511.xyz/0821.json",
     "enable": true,
@@ -590,16 +560,6 @@
     "stability": 100
   },
   {
-    "name": "多多影音",
-    "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 85
-  },
-  {
     "name": "TVBox",
     "url": "https://pastebin.com/raw/sbPpDm9G",
     "enable": true,
@@ -632,16 +592,6 @@
   {
     "name": "饭太硬线路",
     "url": "http://fty.xxooo.cf/tv",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 28
-  },
-  {
-    "name": "饭太硬线路",
-    "url": "http://www.饭太硬.art/tv",
     "enable": true,
     "last_check": "",
     "status": "unknown",
