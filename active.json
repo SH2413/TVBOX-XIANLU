@@ -275,8 +275,8 @@
     "enable": true,
     "last_check": "",
     "status": "unknown",
-    "score": 60,
-    "grade": "B",
+    "score": 40,
+    "grade": "C",
     "stability": 100
   },
   {
@@ -285,8 +285,8 @@
     "enable": true,
     "last_check": "",
     "status": "unknown",
-    "score": 60,
-    "grade": "B",
+    "score": 40,
+    "grade": "C",
     "stability": 100
   },
   {
@@ -372,16 +372,6 @@
   {
     "name": "少儿频道",
     "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 100
-  },
-  {
-    "name": "肥猫线路.com",
-    "url": "http://肥猫.com/",
     "enable": true,
     "last_check": "",
     "status": "unknown",
@@ -530,6 +520,16 @@
     "stability": 100
   },
   {
+    "name": "TVBox",
+    "url": "https://pastebin.com/raw/sbPpDm9G",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 60,
+    "grade": "B",
+    "stability": 100
+  },
+  {
     "name": "Clun在线",
     "url": "https://clun.top/box.json",
     "enable": true,
@@ -580,16 +580,6 @@
     "stability": 85
   },
   {
-    "name": "TVBox",
-    "url": "https://pastebin.com/raw/sbPpDm9G",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 85
-  },
-  {
     "name": "南风线路",
     "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Xc.json",
     "enable": true,
@@ -610,14 +600,24 @@
     "stability": 57
   },
   {
-    "name": "饭太硬线路",
-    "url": "http://www.饭太硬.art/tv",
+    "name": "高天流云",
+    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
     "enable": true,
     "last_check": "",
     "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 28
+    "score": 40,
+    "grade": "C",
+    "stability": 57
+  },
+  {
+    "name": "南风线路",
+    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 40,
+    "grade": "C",
+    "stability": 57
   },
   {
     "name": "饭太硬线路",
@@ -627,6 +627,26 @@
     "status": "unknown",
     "score": 60,
     "grade": "B",
+    "stability": 28
+  },
+  {
+    "name": "心魔在线",
+    "url": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 40,
+    "grade": "C",
+    "stability": 14
+  },
+  {
+    "name": "多多在线",
+    "url": "https://gh-proxy.com/raw.githubusercontent.com/leevi0709/one/main/jsm.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 40,
+    "grade": "C",
     "stability": 14
   }
 ]
