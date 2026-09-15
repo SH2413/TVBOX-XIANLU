@@ -275,8 +275,8 @@
     "enable": true,
     "last_check": "",
     "status": "unknown",
-    "score": 40,
-    "grade": "C",
+    "score": 60,
+    "grade": "B",
     "stability": 100
   },
   {
@@ -285,8 +285,8 @@
     "enable": true,
     "last_check": "",
     "status": "unknown",
-    "score": 40,
-    "grade": "C",
+    "score": 60,
+    "grade": "B",
     "stability": 100
   },
   {
@@ -440,16 +440,6 @@
     "stability": 100
   },
   {
-    "name": "fmys",
-    "url": "http://fmys.top/fmys.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 80,
-    "grade": "A",
-    "stability": 100
-  },
-  {
     "name": "新接口",
     "url": "https://www.iyouhun.com/tv/wex",
     "enable": true,
@@ -587,7 +577,7 @@
     "status": "unknown",
     "score": 40,
     "grade": "C",
-    "stability": 57
+    "stability": 71
   },
   {
     "name": "高天流云",
@@ -597,27 +587,17 @@
     "status": "unknown",
     "score": 60,
     "grade": "B",
-    "stability": 57
+    "stability": 71
   },
   {
-    "name": "高天流云",
-    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+    "name": "饭太硬线路",
+    "url": "http://www.饭太硬.art/tv",
     "enable": true,
     "last_check": "",
     "status": "unknown",
-    "score": 40,
-    "grade": "C",
-    "stability": 57
-  },
-  {
-    "name": "南风线路",
-    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 40,
-    "grade": "C",
-    "stability": 57
+    "score": 60,
+    "grade": "B",
+    "stability": 28
   },
   {
     "name": "饭太硬线路",
@@ -627,25 +607,25 @@
     "status": "unknown",
     "score": 60,
     "grade": "B",
-    "stability": 28
+    "stability": 14
   },
   {
-    "name": "心魔在线",
-    "url": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json",
+    "name": "宝盒线路2026",
+    "url": "https://3043.kstore.space/bhvip/bh/bh2.json",
     "enable": true,
     "last_check": "",
     "status": "unknown",
-    "score": 40,
+    "score": 50,
     "grade": "C",
     "stability": 14
   },
   {
-    "name": "多多在线",
-    "url": "https://gh-proxy.com/raw.githubusercontent.com/leevi0709/one/main/jsm.json",
+    "name": "月光宝盒源",
+    "url": "https://3043.kstore.space/bhvip/bh/box.json",
     "enable": true,
     "last_check": "",
     "status": "unknown",
-    "score": 40,
+    "score": 50,
     "grade": "C",
     "stability": 14
   }
