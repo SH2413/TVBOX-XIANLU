@@ -591,7 +591,7 @@
   },
   {
     "name": "饭太硬线路",
-    "url": "http://www.饭太硬.art/tv",
+    "url": "http://fty.xxooo.cf/tv",
     "enable": true,
     "last_check": "",
     "status": "unknown",
@@ -601,13 +601,13 @@
   },
   {
     "name": "饭太硬线路",
-    "url": "http://fty.xxooo.cf/tv",
+    "url": "http://www.饭太硬.art/tv",
     "enable": true,
     "last_check": "",
     "status": "unknown",
     "score": 60,
     "grade": "B",
-    "stability": 14
+    "stability": 28
   },
   {
     "name": "宝盒线路2026",
@@ -617,7 +617,7 @@
     "status": "unknown",
     "score": 50,
     "grade": "C",
-    "stability": 14
+    "stability": 28
   },
   {
     "name": "月光宝盒源",
@@ -626,6 +626,26 @@
     "last_check": "",
     "status": "unknown",
     "score": 50,
+    "grade": "C",
+    "stability": 28
+  },
+  {
+    "name": "讴歌",
+    "url": "http://tv.nxog.top/",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 50,
+    "grade": "C",
+    "stability": 14
+  },
+  {
+    "name": "福利",
+    "url": "https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 40,
     "grade": "C",
     "stability": 14
   }
