@@ -330,6 +330,16 @@
     "stability": 100
   },
   {
+    "name": "月光宝盒源",
+    "url": "https://3043.kstore.space/bhvip/bh/box.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 50,
+    "grade": "C",
+    "stability": 100
+  },
+  {
     "name": "王二小备用",
     "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
     "enable": true,
@@ -550,16 +560,6 @@
     "stability": 100
   },
   {
-    "name": "月光宝盒源",
-    "url": "https://3043.kstore.space/bhvip/bh/box.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 50,
-    "grade": "C",
-    "stability": 85
-  },
-  {
     "name": "看戏网",
     "url": "https://www.gunys.com/",
     "enable": true,
@@ -577,7 +577,7 @@
     "status": "unknown",
     "score": 60,
     "grade": "B",
-    "stability": 57
+    "stability": 71
   },
   {
     "name": "南风线路",
@@ -598,6 +598,16 @@
     "score": 60,
     "grade": "B",
     "stability": 57
+  },
+  {
+    "name": "福利",
+    "url": "https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 40,
+    "grade": "C",
+    "stability": 42
   },
   {
     "name": "饭太硬线路",
