@@ -340,16 +340,6 @@
     "stability": 100
   },
   {
-    "name": "少儿频道",
-    "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 100
-  },
-  {
     "name": "小盒子4K",
     "url": "http://xhztv.top/4k.json",
     "enable": true,
@@ -387,16 +377,6 @@
     "status": "unknown",
     "score": 80,
     "grade": "A",
-    "stability": 100
-  },
-  {
-    "name": "少儿频道",
-    "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
     "stability": 100
   },
   {
@@ -538,6 +518,16 @@
     "score": 60,
     "grade": "B",
     "stability": 100
+  },
+  {
+    "name": "看戏网",
+    "url": "https://www.gunys.com/",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 60,
+    "grade": "B",
+    "stability": 71
   },
   {
     "name": "南风线路",
