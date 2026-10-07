@@ -300,16 +300,6 @@
     "stability": 100
   },
   {
-    "name": "D佬线路",
-    "url": "http://rihou.cc:555/nzk/nzk0722.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 50,
-    "grade": "C",
-    "stability": 100
-  },
-  {
     "name": "菜妮丝",
     "url": "https://tv.菜妮丝.top",
     "enable": true,
@@ -540,6 +530,16 @@
     "stability": 100
   },
   {
+    "name": "电视",
+    "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 60,
+    "grade": "B",
+    "stability": 71
+  },
+  {
     "name": "南风线路",
     "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Xc.json",
     "enable": true,
@@ -560,16 +560,6 @@
     "stability": 57
   },
   {
-    "name": "电视",
-    "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 57
-  },
-  {
     "name": "看戏网",
     "url": "https://www.gunys.com/",
     "enable": true,
@@ -577,26 +567,6 @@
     "status": "unknown",
     "score": 60,
     "grade": "B",
-    "stability": 42
-  },
-  {
-    "name": "饭太硬线路",
-    "url": "http://www.饭太硬.art/tv",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 14
-  },
-  {
-    "name": "分享在线",
-    "url": "http://hucongrong.web3v.work/%E9%A3%8E%E6%B0%B4/fxz/fxz.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 14
+    "stability": 57
   }
 ]
