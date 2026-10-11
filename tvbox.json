@@ -1,15 +1,6 @@
 {
   "sites": [
     {
-      "key": "应用多多",
-      "name": "应用多多",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/apps/-/raw/main/fast.json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "多仓",
       "name": "多仓",
       "type": 3,
@@ -86,6 +77,15 @@
       "name": "蜂蜜线路",
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "霜辉月明",
+      "name": "霜辉月明",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubuserntent.com/lm317379829/PyramidStore/main/py.json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
