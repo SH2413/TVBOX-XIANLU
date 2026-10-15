@@ -520,6 +520,26 @@
     "stability": 85
   },
   {
+    "name": "宝盒备用",
+    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 60,
+    "grade": "B",
+    "stability": 85
+  },
+  {
+    "name": "香雅晴线",
+    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 60,
+    "grade": "B",
+    "stability": 85
+  },
+  {
     "name": "看戏网",
     "url": "https://www.gunys.com/",
     "enable": true,
