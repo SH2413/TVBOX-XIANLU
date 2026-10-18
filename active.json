@@ -1,5 +1,15 @@
 [
   {
+    "name": "应用多多",
+    "url": "https://jihulab.com/duomv/apps/-/raw/main/fast.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 50,
+    "grade": "C",
+    "stability": 100
+  },
+  {
     "name": "多仓",
     "url": "https://cyuan.netlify.app/tvbox/duo.json",
     "enable": true,
@@ -365,8 +375,8 @@
     "enable": true,
     "last_check": "",
     "status": "unknown",
-    "score": 40,
-    "grade": "C",
+    "score": 60,
+    "grade": "B",
     "stability": 100
   },
   {
@@ -510,16 +520,6 @@
     "stability": 100
   },
   {
-    "name": "应用多多",
-    "url": "https://jihulab.com/duomv/apps/-/raw/main/fast.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 50,
-    "grade": "C",
-    "stability": 85
-  },
-  {
     "name": "宝盒备用",
     "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json",
     "enable": true,
@@ -577,7 +577,7 @@
     "status": "unknown",
     "score": 40,
     "grade": "C",
-    "stability": 42
+    "stability": 57
   },
   {
     "name": "饭太硬线路",
