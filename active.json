@@ -520,6 +520,26 @@
     "stability": 100
   },
   {
+    "name": "运输车多仓",
+    "url": "https://weixine.net/api.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 50,
+    "grade": "C",
+    "stability": 85
+  },
+  {
+    "name": "运输车(有跑马灯)",
+    "url": "https://weixine.net/ysc.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 50,
+    "grade": "C",
+    "stability": 85
+  },
+  {
     "name": "少儿频道",
     "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
     "enable": true,
@@ -550,8 +570,8 @@
     "stability": 85
   },
   {
-    "name": "运输车多仓",
-    "url": "https://weixine.net/api.json",
+    "name": "王二小接口",
+    "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
     "enable": true,
     "last_check": "",
     "status": "unknown",
@@ -560,8 +580,8 @@
     "stability": 71
   },
   {
-    "name": "运输车(有跑马灯)",
-    "url": "https://weixine.net/ysc.json",
+    "name": "王二小放牛娃",
+    "url": "http://tv.999888987.xyz",
     "enable": true,
     "last_check": "",
     "status": "unknown",
@@ -590,24 +610,24 @@
     "stability": 57
   },
   {
-    "name": "王二小接口",
+    "name": "王二小（网盘4K）",
+    "url": "http://tvbox.王二小放牛娃.top",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 50,
+    "grade": "C",
+    "stability": 42
+  },
+  {
+    "name": "王二小备用",
     "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
     "enable": true,
     "last_check": "",
     "status": "unknown",
     "score": 50,
     "grade": "C",
-    "stability": 57
-  },
-  {
-    "name": "王二小放牛娃",
-    "url": "http://tv.999888987.xyz",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 50,
-    "grade": "C",
-    "stability": 57
+    "stability": 28
   },
   {
     "name": "饭太硬线路",
@@ -617,16 +637,6 @@
     "status": "unknown",
     "score": 60,
     "grade": "B",
-    "stability": 14
-  },
-  {
-    "name": "1",
-    "url": "https://700sjro44343.vicp.fun/vip/vip/tv.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 50,
-    "grade": "C",
     "stability": 14
   }
 ]
