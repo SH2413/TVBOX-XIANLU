@@ -350,6 +350,16 @@
     "stability": 100
   },
   {
+    "name": "少儿频道",
+    "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 60,
+    "grade": "B",
+    "stability": 100
+  },
+  {
     "name": "小盒子4K",
     "url": "http://xhztv.top/4k.json",
     "enable": true,
@@ -460,6 +470,16 @@
     "stability": 100
   },
   {
+    "name": "看戏网",
+    "url": "https://www.gunys.com/",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 60,
+    "grade": "B",
+    "stability": 100
+  },
+  {
     "name": "荐片",
     "url": "https://tv.203511.xyz/0821.json",
     "enable": true,
@@ -550,46 +570,6 @@
     "stability": 100
   },
   {
-    "name": "少儿频道",
-    "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 85
-  },
-  {
-    "name": "王二小接口",
-    "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 50,
-    "grade": "C",
-    "stability": 85
-  },
-  {
-    "name": "王二小放牛娃",
-    "url": "http://tv.999888987.xyz",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 50,
-    "grade": "C",
-    "stability": 85
-  },
-  {
-    "name": "看戏网",
-    "url": "https://www.gunys.com/",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 85
-  },
-  {
     "name": "南风线路",
     "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Xc.json",
     "enable": true,
@@ -610,18 +590,8 @@
     "stability": 57
   },
   {
-    "name": "福利",
-    "url": "https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 40,
-    "grade": "C",
-    "stability": 42
-  },
-  {
-    "name": "分享在线",
-    "url": "http://hucongrong.web3v.work/%E9%A3%8E%E6%B0%B4/fxz/fxz.json",
+    "name": "饭太硬线路",
+    "url": "http://www.饭太硬.art/tv",
     "enable": true,
     "last_check": "",
     "status": "unknown",
