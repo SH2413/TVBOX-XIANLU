@@ -16,7 +16,7 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPConnectionPool(host='jk.itvbox.cc', port=66): Max retries exceeded with url: /%E5%8F%AF%E8%A7%86TV/%E4%BA%91%E6%98%9F%E6%97%A5%E8%AE%B0/%E4%BB%93%E5%BA%93/api.json (Caused by ConnectTimeoutError(<HTTPConnection(host='jk.itvbox.cc', port=66) at 0x7feaf4046110>, 'Connection to jk.itvbox.cc timed out. (connect timeout=8)'))",
+    "grade": "HTTPConnectionPool(host='jk.itvbox.cc', port=66): Max retries exceeded with url: /%E5%8F%AF%E8%A7%86TV/%E4%BA%91%E6%98%9F%E6%97%A5%E8%AE%B0/%E4%BB%93%E5%BA%93/api.json (Caused by ConnectTimeoutError(<HTTPConnection(host='jk.itvbox.cc', port=66) at 0x7f1e58411150>, 'Connection to jk.itvbox.cc timed out. (connect timeout=8)'))",
     "stability": 0
   },
   {
@@ -26,7 +26,7 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPConnectionPool(host='52bsj.vip', port=98): Max retries exceeded with url: /wuaihouse (Caused by ConnectTimeoutError(<HTTPConnection(host='52bsj.vip', port=98) at 0x7feaf4047890>, 'Connection to 52bsj.vip timed out. (connect timeout=8)'))",
+    "grade": "HTTPConnectionPool(host='52bsj.vip', port=98): Max retries exceeded with url: /wuaihouse (Caused by ConnectTimeoutError(<HTTPConnection(host='52bsj.vip', port=98) at 0x7f1e58413b90>, 'Connection to 52bsj.vip timed out. (connect timeout=8)'))",
     "stability": 0
   },
   {
@@ -55,8 +55,8 @@
     "enable": true,
     "last_check": "",
     "status": "unknown",
-    "score": 30,
-    "grade": "FAIL",
+    "score": 0,
+    "grade": "HTTPConnectionPool(host='xn--ihqu10cn4c.xn--v4q818bf34b.top', port=80): Read timed out. (read timeout=8)",
     "stability": 0
   },
   {
@@ -108,6 +108,16 @@
     "score": 0,
     "grade": "HTTPSConnectionPool(host='gh.t4tv.hz.cz', port=443): Max retries exceeded with url: /newtang.bmp (Caused by NameResolutionError(\"HTTPSConnection(host='gh.t4tv.hz.cz', port=443): Failed to resolve 'gh.t4tv.hz.cz' ([Errno -2] Name or service not known)\"))",
     "stability": 0
+  },
+  {
+    "name": "俊佬线路",
+    "url": "http://home.jundie.top:81/top98.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 0,
+    "grade": "HTTPConnectionPool(host='home.jundie.top', port=81): Read timed out. (read timeout=8)",
+    "stability": 85
   },
   {
     "name": "应用多多备用",
@@ -191,13 +201,23 @@
   },
   {
     "name": "饭太硬线路",
+    "url": "http://www.饭太硬.art/tv",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 0,
+    "grade": "FAIL",
+    "stability": 0
+  },
+  {
+    "name": "饭太硬线路",
     "url": "http://fty.888484.xyz/tv",
     "enable": true,
     "last_check": "",
     "status": "unknown",
     "score": 30,
     "grade": "FAIL",
-    "stability": 14
+    "stability": 0
   },
   {
     "name": "饭太硬线路",
@@ -207,7 +227,7 @@
     "status": "unknown",
     "score": 30,
     "grade": "FAIL",
-    "stability": 14
+    "stability": 0
   },
   {
     "name": "饭太硬江苏和郑州个别地区",
@@ -266,7 +286,7 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPConnectionPool(host='xhww.fun', port=63): Max retries exceeded with url: /%E5%B0%8F%E7%B1%B3/DEMO.json (Caused by ConnectTimeoutError(<HTTPConnection(host='xhww.fun', port=63) at 0x7feaf3f44410>, 'Connection to xhww.fun timed out. (connect timeout=8)'))",
+    "grade": "HTTPConnectionPool(host='xhww.fun', port=63): Max retries exceeded with url: /%E5%B0%8F%E7%B1%B3/DEMO.json (Caused by ConnectTimeoutError(<HTTPConnection(host='xhww.fun', port=63) at 0x7f1e5843e550>, 'Connection to xhww.fun timed out. (connect timeout=8)'))",
     "stability": 0
   },
   {
@@ -296,7 +316,7 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPConnectionPool(host='8.210.232.168', port=80): Max retries exceeded with url: /xc.json (Caused by ConnectTimeoutError(<HTTPConnection(host='8.210.232.168', port=80) at 0x7feaf3f472d0>, 'Connection to 8.210.232.168 timed out. (connect timeout=8)'))",
+    "grade": "HTTPConnectionPool(host='8.210.232.168', port=80): Max retries exceeded with url: /xc.json (Caused by ConnectTimeoutError(<HTTPConnection(host='8.210.232.168', port=80) at 0x7f1e58430650>, 'Connection to 8.210.232.168 timed out. (connect timeout=8)'))",
     "stability": 0
   },
   {
@@ -316,7 +336,7 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPConnectionPool(host='52bsj.vip', port=98): Max retries exceeded with url: /wuai (Caused by ConnectTimeoutError(<HTTPConnection(host='52bsj.vip', port=98) at 0x7feaf3f4cf90>, 'Connection to 52bsj.vip timed out. (connect timeout=8)'))",
+    "grade": "HTTPConnectionPool(host='52bsj.vip', port=98): Max retries exceeded with url: /wuai (Caused by ConnectTimeoutError(<HTTPConnection(host='52bsj.vip', port=98) at 0x7f1e5843fd10>, 'Connection to 52bsj.vip timed out. (connect timeout=8)'))",
     "stability": 0
   },
   {
@@ -326,7 +346,7 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPConnectionPool(host='itvbox.cc', port=80): Max retries exceeded with url: /tvbox/%E4%BA%91%E6%98%9F%E6%97%A5%E8%AE%B0/1.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='itvbox.cc', port=80) at 0x7feaf3f4c090>, 'Connection to itvbox.cc timed out. (connect timeout=8)'))",
+    "grade": "HTTPConnectionPool(host='itvbox.cc', port=80): Max retries exceeded with url: /tvbox/%E4%BA%91%E6%98%9F%E6%97%A5%E8%AE%B0/1.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='itvbox.cc', port=80) at 0x7f1e5843dad0>, 'Connection to itvbox.cc timed out. (connect timeout=8)'))",
     "stability": 0
   },
   {
@@ -536,7 +556,7 @@
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPConnectionPool(host='rihou.cc', port=555): Max retries exceeded with url: /nzk/nzk0722.json (Caused by ConnectTimeoutError(<HTTPConnection(host='rihou.cc', port=555) at 0x7feaf3f37250>, 'Connection to rihou.cc timed out. (connect timeout=8)'))",
+    "grade": "HTTPConnectionPool(host='rihou.cc', port=555): Max retries exceeded with url: /nzk/nzk0722.json (Caused by NameResolutionError(\"HTTPConnection(host='rihou.cc', port=555): Failed to resolve 'rihou.cc' ([Errno -5] No address associated with hostname)\"))",
     "stability": 0
   },
   {
@@ -560,16 +580,6 @@
     "stability": 0
   },
   {
-    "name": "王二小（网盘4K）",
-    "url": "http://tvbox.王二小放牛娃.top",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 0,
-    "grade": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
-    "stability": 42
-  },
-  {
     "name": "盒子迷2026",
     "url": "https://盒子迷.top/禁止贩卖",
     "enable": true,
@@ -590,23 +600,13 @@
     "stability": 0
   },
   {
-    "name": "王二小备用",
-    "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 0,
-    "grade": "HTTPConnectionPool(host='tvbox.xn--4kq62z5rby2qupq9ub.top', port=80): Read timed out. (read timeout=8)",
-    "stability": 28
-  },
-  {
     "name": "短剧频道",
     "url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json",
     "enable": true,
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPConnectionPool(host='box.ufuzi.com', port=80): Max retries exceeded with url: /tv/qq/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api.json (Caused by ConnectTimeoutError(<HTTPConnection(host='box.ufuzi.com', port=80) at 0x7feaf3f455d0>, 'Connection to box.ufuzi.com timed out. (connect timeout=8)'))",
+    "grade": "HTTPConnectionPool(host='box.ufuzi.com', port=80): Max retries exceeded with url: /tv/qq/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api.json (Caused by ConnectTimeoutError(<HTTPConnection(host='box.ufuzi.com', port=80) at 0x7f1e5825cd50>, 'Connection to box.ufuzi.com timed out. (connect timeout=8)'))",
     "stability": 0
   },
   {
@@ -640,23 +640,13 @@
     "stability": 0
   },
   {
-    "name": "二月红接口",
-    "url": "https://700sjro44343.vicp.fun/eggp/0211/tv.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 30,
-    "grade": "FAIL",
-    "stability": 0
-  },
-  {
     "name": "肥猫线路.com",
     "url": "http://肥猫.com/",
     "enable": true,
     "last_check": "",
     "status": "unknown",
     "score": 0,
-    "grade": "HTTPSConnectionPool(host='ww38.xn--z7x900a.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww38.xn--z7x900a.com', port=443) at 0x7feaf3f5b4d0>, 'Connection to ww38.xn--z7x900a.com timed out. (connect timeout=8)'))",
+    "grade": "HTTPSConnectionPool(host='ww38.xn--z7x900a.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww38.xn--z7x900a.com', port=443) at 0x7f1e59b9d9d0>, 'Connection to ww38.xn--z7x900a.com timed out. (connect timeout=8)'))",
     "stability": 0
   },
   {
@@ -750,16 +740,6 @@
     "stability": 0
   },
   {
-    "name": "1",
-    "url": "https://700sjro44343.vicp.fun/vip/vip/tv.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 30,
-    "grade": "FAIL",
-    "stability": 14
-  },
-  {
     "name": "cs",
     "url": "http://tv.nxog.top/m/",
     "enable": true,
@@ -768,16 +748,6 @@
     "score": 0,
     "grade": "FAIL",
     "stability": 0
-  },
-  {
-    "name": "福利",
-    "url": "https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 30,
-    "grade": "FAIL",
-    "stability": 28
   },
   {
     "name": "我的借口",

@@ -82,10 +82,10 @@
       "filterable": 0
     },
     {
-      "key": "俊佬线路",
-      "name": "俊佬线路",
+      "key": "蜂蜜线路",
+      "name": "蜂蜜线路",
       "type": 3,
-      "api": "http://home.jundie.top:81/top98.json",
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
