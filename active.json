@@ -100,6 +100,26 @@
     "stability": 100
   },
   {
+    "name": "蜂蜜线路",
+    "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 60,
+    "grade": "B",
+    "stability": 100
+  },
+  {
+    "name": "霜辉月明",
+    "url": "https://ghproxy.com/https://raw.githubuserntent.com/lm317379829/PyramidStore/main/py.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 60,
+    "grade": "B",
+    "stability": 100
+  },
+  {
     "name": "运输车(有跑马灯)",
     "url": "https://weixine.net/ysc.json",
     "enable": true,
@@ -120,6 +140,16 @@
     "stability": 100
   },
   {
+    "name": "影视线路",
+    "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-ine/main/tv/fj.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 60,
+    "grade": "B",
+    "stability": 100
+  },
+  {
     "name": "agit/abc线路",
     "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
     "enable": true,
@@ -127,6 +157,16 @@
     "status": "unknown",
     "score": 40,
     "grade": "C",
+    "stability": 100
+  },
+  {
+    "name": "佰欣园线路",
+    "url": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.t",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 60,
+    "grade": "B",
     "stability": 100
   },
   {
@@ -150,8 +190,28 @@
     "stability": 100
   },
   {
+    "name": "甜蜜线路",
+    "url": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/%E7%94%9c%E8%9C%9C.ison",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 60,
+    "grade": "B",
+    "stability": 100
+  },
+  {
     "name": "小马线路",
     "url": "https://szyyds.cn/tv/x.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 60,
+    "grade": "B",
+    "stability": 100
+  },
+  {
+    "name": "木线路",
+    "url": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOx-/main/TVBox/%E4%B8%80%E6%9C%A8%E8%87%AA%E7%94%A8.i500",
     "enable": true,
     "last_check": "",
     "status": "unknown",
@@ -167,6 +227,16 @@
     "status": "unknown",
     "score": 40,
     "grade": "C",
+    "stability": 100
+  },
+  {
+    "name": "荷城茶秀",
+    "url": "https://ghproxy.com/https://raw.githubusercontent.com/XiaoYichaHang/tvbox/main/ysj.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 60,
+    "grade": "B",
     "stability": 100
   },
   {
@@ -510,76 +580,6 @@
     "stability": 100
   },
   {
-    "name": "蜂蜜线路",
-    "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 85
-  },
-  {
-    "name": "霜辉月明",
-    "url": "https://ghproxy.com/https://raw.githubuserntent.com/lm317379829/PyramidStore/main/py.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 85
-  },
-  {
-    "name": "影视线路",
-    "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-ine/main/tv/fj.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 85
-  },
-  {
-    "name": "佰欣园线路",
-    "url": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.t",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 85
-  },
-  {
-    "name": "甜蜜线路",
-    "url": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/%E7%94%9c%E8%9C%9C.ison",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 85
-  },
-  {
-    "name": "木线路",
-    "url": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOx-/main/TVBox/%E4%B8%80%E6%9C%A8%E8%87%AA%E7%94%A8.i500",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 85
-  },
-  {
-    "name": "荷城茶秀",
-    "url": "https://ghproxy.com/https://raw.githubusercontent.com/XiaoYichaHang/tvbox/main/ysj.json",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 85
-  },
-  {
     "name": "菜妮丝",
     "url": "https://tv.菜妮丝.top",
     "enable": true,
@@ -597,6 +597,16 @@
     "status": "unknown",
     "score": 50,
     "grade": "C",
+    "stability": 85
+  },
+  {
+    "name": "少儿频道",
+    "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 60,
+    "grade": "B",
     "stability": 85
   },
   {
@@ -630,13 +640,13 @@
     "stability": 57
   },
   {
-    "name": "福利",
-    "url": "https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json",
+    "name": "饭太硬线路",
+    "url": "http://www.饭太硬.art/tv",
     "enable": true,
     "last_check": "",
     "status": "unknown",
-    "score": 40,
-    "grade": "C",
+    "score": 60,
+    "grade": "B",
     "stability": 14
   }
 ]
