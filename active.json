@@ -600,6 +600,26 @@
     "stability": 85
   },
   {
+    "name": "王二小接口",
+    "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 50,
+    "grade": "C",
+    "stability": 85
+  },
+  {
+    "name": "王二小放牛娃",
+    "url": "http://tv.999888987.xyz",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 50,
+    "grade": "C",
+    "stability": 85
+  },
+  {
     "name": "南风线路",
     "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Xc.json",
     "enable": true,
@@ -627,16 +647,6 @@
     "status": "unknown",
     "score": 60,
     "grade": "B",
-    "stability": 14
-  },
-  {
-    "name": "饭太硬线路",
-    "url": "http://www.饭太硬.art/tv",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 60,
-    "grade": "B",
-    "stability": 14
+    "stability": 28
   }
 ]
