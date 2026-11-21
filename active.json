@@ -600,6 +600,16 @@
     "stability": 85
   },
   {
+    "name": "欧歌",
+    "url": "http://tv.nxog.top/api.php?mz=xb&id=1&b=欧歌",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 40,
+    "grade": "C",
+    "stability": 71
+  },
+  {
     "name": "王二小（网盘4K）",
     "url": "http://tvbox.王二小放牛娃.top",
     "enable": true,
@@ -616,6 +626,16 @@
     "last_check": "",
     "status": "unknown",
     "score": 50,
+    "grade": "C",
+    "stability": 71
+  },
+  {
+    "name": "欧歌接口",
+    "url": "https://xn--sdds-rp5imh.v.nxog.top/apitv.php?id=3",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 40,
     "grade": "C",
     "stability": 71
   },
@@ -640,14 +660,14 @@
     "stability": 71
   },
   {
-    "name": "欧歌",
-    "url": "http://tv.nxog.top/api.php?mz=xb&id=1&b=欧歌",
+    "name": "双龙",
+    "url": "https://xn--jory77o.v.nxog.top/apia.php?id=1",
     "enable": true,
     "last_check": "",
     "status": "unknown",
     "score": 40,
     "grade": "C",
-    "stability": 57
+    "stability": 71
   },
   {
     "name": "南风线路",
@@ -667,26 +687,6 @@
     "status": "unknown",
     "score": 60,
     "grade": "B",
-    "stability": 57
-  },
-  {
-    "name": "欧歌接口",
-    "url": "https://xn--sdds-rp5imh.v.nxog.top/apitv.php?id=3",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 40,
-    "grade": "C",
-    "stability": 57
-  },
-  {
-    "name": "双龙",
-    "url": "https://xn--jory77o.v.nxog.top/apia.php?id=1",
-    "enable": true,
-    "last_check": "",
-    "status": "unknown",
-    "score": 40,
-    "grade": "C",
     "stability": 57
   },
   {
