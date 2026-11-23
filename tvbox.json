@@ -10,6 +10,15 @@
       "filterable": 0
     },
     {
+      "key": "欧歌",
+      "name": "欧歌",
+      "type": 3,
+      "api": "http://tv.nxog.top/api.php?mz=xb&id=1&b=欧歌",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "多仓",
       "name": "多仓",
       "type": 3,
@@ -77,15 +86,6 @@
       "name": "讴歌",
       "type": 3,
       "api": "http://tv.nxog.top/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "应用多多家庭版",
-      "name": "应用多多家庭版",
-      "type": 3,
-      "api": "http://yydsys.top/duo",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
