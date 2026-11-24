@@ -580,6 +580,16 @@
     "stability": 100
   },
   {
+    "name": "TVBox",
+    "url": "https://pastebin.com/raw/sbPpDm9G",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 60,
+    "grade": "B",
+    "stability": 100
+  },
+  {
     "name": "Clun在线",
     "url": "https://clun.top/box.json",
     "enable": true,
@@ -610,8 +620,8 @@
     "stability": 100
   },
   {
-    "name": "TVBox",
-    "url": "https://pastebin.com/raw/sbPpDm9G",
+    "name": "盒子迷2026",
+    "url": "https://盒子迷.top/禁止贩卖",
     "enable": true,
     "last_check": "",
     "status": "unknown",
@@ -680,6 +690,16 @@
     "stability": 57
   },
   {
+    "name": "福利",
+    "url": "https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 40,
+    "grade": "C",
+    "stability": 28
+  },
+  {
     "name": "饭太硬线路",
     "url": "http://www.饭太硬.art/tv",
     "enable": true,
@@ -687,6 +707,16 @@
     "status": "unknown",
     "score": 60,
     "grade": "B",
+    "stability": 14
+  },
+  {
+    "name": "苍蓝",
+    "url": "https://13537.kstore.vip/tvbox/test.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 50,
+    "grade": "C",
     "stability": 14
   }
 ]
