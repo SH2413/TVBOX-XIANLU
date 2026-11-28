@@ -670,6 +670,16 @@
     "stability": 85
   },
   {
+    "name": "苍蓝",
+    "url": "https://13537.kstore.vip/tvbox/test.json",
+    "enable": true,
+    "last_check": "",
+    "status": "unknown",
+    "score": 50,
+    "grade": "C",
+    "stability": 71
+  },
+  {
     "name": "南风线路",
     "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Xc.json",
     "enable": true,
@@ -690,13 +700,13 @@
     "stability": 57
   },
   {
-    "name": "苍蓝",
-    "url": "https://13537.kstore.vip/tvbox/test.json",
+    "name": "饭太硬线路",
+    "url": "http://www.饭太硬.art/tv",
     "enable": true,
     "last_check": "",
     "status": "unknown",
-    "score": 50,
-    "grade": "C",
-    "stability": 57
+    "score": 60,
+    "grade": "B",
+    "stability": 14
   }
 ]
